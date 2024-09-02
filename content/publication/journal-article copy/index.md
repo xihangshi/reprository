@@ -1,7 +1,7 @@
 ---
 title: "Quantum recoil in free-electron interactions with atomic lattices"
 
-authors: "SUnchao"
+authors: "**SUnchao**, Xihang"
 
 
 author_notes:
