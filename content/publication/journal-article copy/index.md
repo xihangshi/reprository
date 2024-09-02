@@ -1,10 +1,8 @@
 ---
 title: "Quantum recoil in free-electron interactions with atomic lattices"
 
-authors:
--  SunChao
-- Duan, Ruihuan
-- Wseley, Wang
+authors: "SUnchao"
+
 
 author_notes:
 
