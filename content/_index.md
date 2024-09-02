@@ -5,29 +5,17 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: resume-biography-3
+  - block: hero
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url:
-    # uploads/resume.pdf
-    
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: welcome.jpg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+      title: |
+        Wowchemy
+        Research Group
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+        
+        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
   
   - block: collection
