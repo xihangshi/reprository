@@ -2,7 +2,7 @@
 title: "Quantum recoil in free-electron interactions with atomic lattices"
 
 authors: 
-- **Sunchao**
+- Sunchao
 
 
 author_notes:
