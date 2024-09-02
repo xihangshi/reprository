@@ -6,10 +6,10 @@
 main:
   - name: Tour
     url: tour
-    weight: 10
+    weight: 0
   - name: News
     url: post
-    weight: 20
+    weight: 50
  # - name: People
  #   url: people
     weight: 30
