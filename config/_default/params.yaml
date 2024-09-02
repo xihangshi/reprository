@@ -33,19 +33,17 @@ marketing:
 
 # Site header
 
+
 header:
   navbar:
     enable: true
     blox: "navbar"
-    align: l
-    show_logo: true
-    show_language: false
-    # show_day_night: true
-    show_theme_chooser: true
+    fixed_to_top: true
     show_search: true
-    highlight_active_link: false
-    font_size: L
-
+    show_theme_chooser: true
+    logo:
+      text: "Your Name"
+      
 # Site footer
 
 #footer:
