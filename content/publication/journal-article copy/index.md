@@ -2,7 +2,7 @@
 title: "Quantum recoil in free-electron interactions with atomic lattices"
 
 authors:
--  Author Name^+
+-  Author Name^{+}
 - Duan, Ruihuan
 - Wseley, Wang
 
