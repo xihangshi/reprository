@@ -9,10 +9,9 @@ sections:
     content:
       image:
         filename: welcome.jpg
-    title: |
+      title: |
         Wowchemy
         Research Group
-
       text: |
         <br>
         
