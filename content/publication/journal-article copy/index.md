@@ -2,7 +2,8 @@
 title: "Quantum recoil in free-electron interactions with atomic lattices"
 
 authors:
-- Huang, Sunchao 
+- Huang, Sunchao
+  weight: 2
 - Duan, Ruihuan
 - Wseley, Wang
 
