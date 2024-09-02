@@ -36,10 +36,12 @@ marketing:
 header:
   navbar:
     enable: true
+    blox: "navbar"
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    # show_day_night: true
+    show_theme_chooser: true
     show_search: true
     highlight_active_link: false
     font_size: L
