@@ -2,7 +2,7 @@
 title: "Quantum recoil in free-electron interactions with atomic lattices"
 
 authors:
--  Author Name^{+}
+-  <strong>Jun Guan</strong>*
 - Duan, Ruihuan
 - Wseley, Wang
 
