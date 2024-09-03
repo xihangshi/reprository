@@ -1,7 +1,7 @@
 ---
 title: Free-electron-driven X-ray caustics from strained van der Waals materials
 author_lists:
-- **Xihang**
+- "**Xihang**"
 - Shi
 date: '2023-01-01'
 publishDate: '2024-09-03T17:30:33.819205Z'
