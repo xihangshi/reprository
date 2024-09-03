@@ -2,7 +2,7 @@
 title: 'Free-electron interactions with van der Waals heterostructures: a source of
   focused X-ray radiation'
 authors:
-- *Xihang Shi*
+- "<strong>Xihang Shi</strong>"
 - Yaniv Kurman
 - Michael Shentcis
 - Liang Jie Wong
