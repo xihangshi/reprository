@@ -8,4 +8,3 @@ require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.8-0.20240513193311-41bd113535e8
 )
 
-replace github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 => D:/Users/xihangshi.STAFF/Documents/my-local-blox-bootstrap
