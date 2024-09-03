@@ -8,3 +8,4 @@ require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240509231741-c3d23d929bc6
 	
 )
+replace github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 => D:/Users/xihangshi.STAFF/Documents/my-local-blox-bootstrap
