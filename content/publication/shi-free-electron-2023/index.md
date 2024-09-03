@@ -37,5 +37,5 @@ links:
   url: https://doi.org/10.1038/s41377-023-01141-2
 
 - name: Supplementary mateiral
-- url: https://doi.org/10.1038/s41377-023-01141-2
+  url: https://doi.org/10.1038/s41377-023-01141-2
 ---
