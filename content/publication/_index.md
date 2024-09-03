@@ -2,7 +2,7 @@
 title: Publications
 
 # Listing view
-view: masonry
+view: showcase
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
