@@ -1,12 +1,8 @@
 ---
 title: Free-electron-driven X-ray caustics from strained van der Waals materials
-authors:
-- "Xihang Shi<sup>&dagger;</sup>"
-- Michael Shentcis
-- Yaniv Kurman
-- Liang Jie Wong
-- F Javier García de Abajo
-- Ido Kaminer
+author_lists:
+- Xihang
+- Shi
 date: '2023-01-01'
 publishDate: '2024-09-03T17:30:33.819205Z'
 publication_types:
