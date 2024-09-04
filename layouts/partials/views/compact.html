@@ -11,30 +11,20 @@
 
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
-{{/* Get summary. */}}
-{{ $summary := "" }}
-{{ if $item.Params.summary }}
-  {{ $summary = $item.Params.summary | markdownify | emojify }}
-{{ else if $item.Params.abstract }}
-  {{ $summary = $item.Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
-{{ else if $item.Summary }}
-  {{ $summary = $item.Summary }}
-{{ end }}
-
 <div class="media stream-item view-compact custom-width-container">
   <div class="media-body">
 
-    <div class="section-subheading article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0" style="font-size: 1.2rem;"> <!-- Smaller font for title -->
       {{ if $item.Params.item_number }}
       <span class="item-number" style="margin-right: 10px; font-weight: bold;">{{ $item.Params.item_number }}.</span>
       {{ end }}
-      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }} style="font-style: italic; font-weight: bold;">{{ $item.Title }}</a> <!-- Italic and Bold Title -->
     </div>
 
-    {{/* Show journal name with volume, pages, and year below the title */}}
+    {{/* Show journal name with volume, pages, and year below the title, without ** */}}
     <div class="article-metadata journal-name">
       {{ if $item.Params.publication }}
-        {{ $item.Params.publication }},
+        {{ $item.Params.publication | plainify }}, <!-- Use plainify to avoid formatting -->
         {{ if $item.Params.volume }}{{ $item.Params.volume }},{{ end }}
         {{ if $item.Params.pages }}{{ $item.Params.pages }},{{ end }}
         {{ $item.Date.Format "2006" }}.
