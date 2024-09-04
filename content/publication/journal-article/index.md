@@ -1,5 +1,6 @@
 ---
 title: "An example journal article"
+item_number: 1
 authors:
 - "**admin**"
 - Robert Ford
