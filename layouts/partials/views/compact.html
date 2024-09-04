@@ -31,34 +31,25 @@
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
 
-    {{/* Handle multiple publication types */}}
-    {{ with $item.Params.publication_types }}
-      {{ if in . "publication" }}
-        <div class="article-metadata publication-details">
-          {{ if $item.Params.publication_short }}
-            {{- $item.Params.publication_short | markdownify -}}.
-          {{ else if $item.Params.publication }}
-            {{- $item.Params.publication | markdownify -}}.
-          {{ end }}
-          <div class="authors">
-            {{ partial "page_metadata_authors" $item }}
-          </div>
-        </div>
+    {{/* Show journal name in the required format below the title */}}
+    <div class="article-metadata journal-name">
+      {{ if $item.Params.publication }}
+        {{ $item.Params.publication }},
+        {{ if $item.Params.issue_number }} {{ $item.Params.issue_number }},{{ end }}
+        {{ if $item.Params.pages }} {{ $item.Params.pages }},{{ end }}
+        {{ $item.Date.Format "2006" }}.
       {{ end }}
-      {{ if in . "project" }}
-        <div class="project-details">
-          <p>This paper is also part of a project.</p>
-          <!-- Additional project-related details can go here -->
-        </div>
-      {{ end }}
-    {{ end }}
+    </div>
 
-    {{ with $summary }}
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
-      <div class="article-style">
-        {{.}}
-      </div>
-    </a>
+    {{/* Only show abstract/summary if not on the main page */}}
+    {{ if not .IsHome }}
+      {{ with $summary }}
+      <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
+        <div class="article-style">
+          {{.}}
+        </div>
+      </a>
+      {{ end }}
     {{ end }}
 
     <div class="stream-meta article-metadata">
