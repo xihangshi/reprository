@@ -40,4 +40,11 @@ links:
   url: https://mp.weixin.qq.com/s/coWlpNxTR1cBLm02fiEwSw
 - name: Supplement
   url: https://static-content.springer.com/esm/art%3A10.1038%2Fs41377-023-01363-4/MediaObjects/41377_2023_1363_MOESM1_ESM.pdf
+
+  # Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
 ---
