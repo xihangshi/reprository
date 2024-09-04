@@ -2,7 +2,7 @@
 title: Free-electron crystals for enhanced X-ray radiation
 authors:
 - Lee Wei Wesley Wong
-- Xihang Shi
+- "**Xihang Shi**"
 - Aviv Karnieli
 - Jeremy Lim
 - Suraj Kumar
@@ -33,4 +33,11 @@ abstract: Bremsstrahlung—the spontaneous emission of broadband radiation from 
   practical radiation processes like bremsstrahlung. Our results pave the way towards
   greater versatility in table-top X-ray sources and improved fundamental understanding
   of quantum electron-light interactions.
+links:
+- name: Phys.Org
+  url: https://phys.org/news/2024-01-team-generate-powerful-focused-rays.html
+- name: Light新媒体
+  url: https://mp.weixin.qq.com/s/coWlpNxTR1cBLm02fiEwSw
+- name: Supplement
+  url: https://static-content.springer.com/esm/art%3A10.1038%2Fs41377-023-01363-4/MediaObjects/41377_2023_1363_MOESM1_ESM.pdf
 ---
