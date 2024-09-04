@@ -31,8 +31,17 @@
       {{ end }}
     </div>
 
-    {{/* Only show abstract/summary if not on the main page */}}
+    {{/* Define and show abstract/summary only if not on the main page */}}
     {{ if not .IsHome }}
+      {{ $summary := "" }}
+      {{ if $item.Params.summary }}
+        {{ $summary = $item.Params.summary | plainify | emojify }}
+      {{ else if $item.Params.abstract }}
+        {{ $summary = $item.Params.abstract | plainify | emojify | truncate (site.Params.abstract_length | default 135) }}
+      {{ else if $item.Summary }}
+        {{ $summary = $item.Summary }}
+      {{ end }}
+
       {{ with $summary }}
       <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
         <div class="article-style">
