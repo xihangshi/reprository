@@ -2,7 +2,7 @@
 title: Free-electron crystals for enhanced X-ray radiation
 authors:
 - Lee Wei Wesley Wong
-- "**Xihang Shi**"
+- "<span style='color: blue; font-weight: bold;'>Xihang Shi</span>"
 - Aviv Karnieli
 - Jeremy Lim
 - Suraj Kumar
