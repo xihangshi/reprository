@@ -1,6 +1,6 @@
 ---
 title: "An example journal article"
-item_number: 1
+item_number: o
 authors:
 - "**admin**"
 - Robert Ford
