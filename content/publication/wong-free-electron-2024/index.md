@@ -9,11 +9,13 @@ authors:
 - Sergio Carbajo
 - Ido Kaminer
 - Liang Jie Wong
+volume: 13
+pages: 29
 date: '2024-01-01'
 publishDate: '2024-09-04T21:50:57.077098Z'
 publication_types:
 - article-journal
-publication: '*Light: Science & Applications*'
+publication: 'Light: Science & Applications'
 doi: 10.1038/s41377-023-01363-4
 abstract: Bremsstrahlung—the spontaneous emission of broadband radiation from free
   electrons that are deflected by atomic nuclei—contributes to the majority of X-rays
