@@ -5,7 +5,7 @@ issue_number: "112"
 pages: "054301"
 authors:
 - Hongyi Xu
-- **Xihang Shi**
+- {**Xihang Shi**}
 - Fei Gao
 - Handong Sun
 - Baile Zhang
