@@ -35,15 +35,6 @@
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
 
-    {{/* Show journal name below the title */}}
-    <div class="article-journal-name">
-      {{ if $item.Params.publication_short }}
-        {{- $item.Params.publication_short | markdownify -}}.
-      {{ else if $item.Params.publication }}
-        {{- $item.Params.publication | markdownify -}}.
-      {{ end }}
-    </div>
-
     {{ with $summary }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
       <div class="article-style">
