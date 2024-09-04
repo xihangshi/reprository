@@ -35,8 +35,8 @@
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
 
-    {{/* Show journal name below the title */}}
-    <div class="article-journal-name">
+    {{/* Show journal name below the title with the same style as the summary and author name */}}
+    <div class="article-metadata journal-name">
       {{ if $item.Params.publication_short }}
         {{- $item.Params.publication_short | markdownify -}}.
       {{ else if $item.Params.publication }}
