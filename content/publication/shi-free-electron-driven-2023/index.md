@@ -1,7 +1,7 @@
 ---
 title: Free-electron-driven X-ray caustics from strained van der Waals materials
 authors:
-- Xihang Shi
+- "**Xihang Shi**"
 - Michael Shentcis
 - Yaniv Kurman
 - Liang Jie Wong
@@ -11,7 +11,9 @@ date: '2023-01-01'
 publishDate: '2024-09-04T21:50:57.055004Z'
 publication_types:
 - article-journal
-publication: '*Optica*'
+publication: 'Optica'
+volume: 10
+pages: 292-301
 doi: 10.1364/OPTICA.472462
 abstract: Tunable control of X-ray waves remains an open challenge of critical importance
   for applications in high-resolution X-ray spectroscopy, medical imaging, and radiation
@@ -28,13 +30,14 @@ abstract: Tunable control of X-ray waves remains an open challenge of critical i
   X-ray optics technology. Looking forward, shaping the interference of X-rays at
   the atomic scale could enable further developments in high-resolution X-ray science.
 tags:
-- High resolution spectroscopy
-- Medical imaging
-- Optical components
-- Soft x rays
-- Visible light
-- X ray optics
+- Application
+  
 links:
-- name: URL
-  url: https://opg.optica.org/optica/abstract.cfm?URI=optica-10-2-292
+- name: DOI
+  url: https://doi.org/10.1364/OPTICA.472462
+- name: PDF
+  url: https://opg.optica.org/optica/viewmedia.cfm?uri=optica-10-2-292&seq=0
+- Supplement
+  url: https://opg.optica.org/optica/viewmedia.cfm?uri=optica-10-2-292&seq=s001
+  
 ---
