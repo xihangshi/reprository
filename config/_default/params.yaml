@@ -7,11 +7,11 @@
 
 appearance:
   theme_day: minimal
-  theme_night:light
+  theme_night: light
   #font: native
   #font_size: L
   #mode: light,dark
-  #color: emerald
+  color: emerald
 
 # SEO
 
