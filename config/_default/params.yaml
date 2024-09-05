@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: light
-  theme_night: dark
+  theme_night: minimial
   #font: native
   #font_size: L
   #mode: light,dark
