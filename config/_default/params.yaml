@@ -23,12 +23,12 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: true
+    show_logo: false
     show_language: false
-    show_day_night: false
+    show_day_night: ture
     show_search: false
-    show_theme_chooser: false
-    highlight_active_link: false
+    show_theme_chooser: ture
+    highlight_active_link: true
 
 # Site footer
 
