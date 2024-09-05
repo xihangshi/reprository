@@ -6,44 +6,31 @@
 # Appearance
 
 appearance:
- # theme_day: minimal
- # theme_night:
-  font: native
-  font_size: L
-  mode: system
+  theme_day: light
+  theme_night: minimal
+  # theme_night: solarized-light 
+  #font: native
+  #font_size: L
+  #mode: light,dark
   color: emerald
 
 # SEO
 
-marketing:
-  seo:
-    site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
-  verification:
-    google: ''
-    baidu: ''
+
 
 # Site header
-
 
 header:
   navbar:
     enable: true
-    blox: "navbar"
-    fixed_to_top: true
-    show_search: true
-    show_theme_chooser: true
-    logo:
-      text: "Your Name"
-      
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: false
+    show_theme_chooser: false
+    highlight_active_link: true
+
 # Site footer
 
 #footer:
@@ -94,7 +81,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: 
+    provider: wowchemy
     algolia:
       app_id: ''
       api_key: ''

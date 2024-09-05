@@ -2,17 +2,19 @@
 title: 'Free-electron interactions with van der Waals heterostructures: a source of
   focused X-ray radiation'
 authors:
-- "{{Xihang Shi}}"
+- "**Xihang Shi**"
 - Yaniv Kurman
 - Michael Shentcis
 - Liang Jie Wong
 - F Javier García de Abajo
 - Ido Kaminer
 date: '2023-01-01'
-publishDate: '2024-09-03T17:30:33.827712Z'
+publishDate: '2024-09-04T21:50:57.062460Z'
 publication_types:
 - article-journal
-publication: '*Light: Science & Applications*'
+publication: 'Light: Science & Applications'
+volume: 12
+pages: 148
 doi: 10.1038/s41377-023-01141-2
 abstract: The science and technology of X-ray optics have come far, enabling the focusing
   of X-rays for applications in high-resolution X-ray spectroscopy, imaging, and irradiation.
@@ -33,9 +35,18 @@ abstract: The science and technology of X-ray optics have come far, enabling the
   of many-layer vdW heterostructures open unprecedented horizons of focusing and arbitrary
   shaping of X-ray nanobeams.
 links:
-- name: URL
+- name: DOI
   url: https://doi.org/10.1038/s41377-023-01141-2
+- name: PDF
+  url: https://rdcu.be/dS0Vn
+- name: News & Views of Light
+  url: https://doi.org/10.1038/s41377-023-01221-3
+- name: Nature Blog
+  url: https://go.nature.com/3V0zaZK
+- name: Supplement
+  url: https://static-content.springer.com/esm/art%3A10.1038%2Fs41377-023-01141-2/MediaObjects/41377_2023_1141_MOESM1_ESM.pdf
 
-- name: Supplementary mateiral
-  url: https://doi.org/10.1038/s41377-023-01141-2
+tags:
+- Application
+- X-rays
 ---

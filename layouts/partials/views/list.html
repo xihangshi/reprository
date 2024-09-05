@@ -1,0 +1,69 @@
+{{ $item := .item }}
+
+{{/* Dynamic view adjusts to content type. */}}
+{{ $show_authors := false }}
+{{ $link := $item.RelPermalink }}
+{{ $target := "" }}
+{{ if $item.Params.external_link }}
+  {{ $link = $item.Params.external_link }}
+  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+{{ end }}
+
+{{ if eq $item.Type "publication" }}
+  {{ $show_authors = true }}
+{{ else if eq $item.Type "project" }}
+  {{ $show_authors = true }}
+{{ end }}
+
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+
+<div class="view-list view-list-item">
+  
+  <!-- List number before the title -->
+  {{ if $item.Params.item_number }}
+  <span class="item-number" style="margin-right: 10px; font-weight: normal;">{{ $item.Params.item_number }}.</span>
+  {{ end }}
+
+  <!-- Title of the item -->
+  <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+
+  {{ if eq $item.Type "event" }}
+  <div class="article-metadata">
+    <span>
+      {{ partial "functions/get_event_dates" $item }}
+    </span>
+    {{ with $item.Params.location }}
+    <span class="middot-divider"></span>
+    <span>{{ . }}</span>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  <!-- Show authors if applicable -->
+  {{ if and $show_authors $item.Params.authors }}
+  <div class="article-metadata">
+    {{ partial "page_metadata_authors" $item }}
+  </div>
+  {{ end }}
+
+  <!-- Show journal name, volume, pages, year below the author -->
+  {{ if eq $item.Type "publication" }}
+  <div class="article-metadata journal-details">
+    {{ if $item.Params.publication }}
+      <i>{{ $item.Params.publication | plainify }}</i>, <!-- Italic journal name -->
+      {{ if $item.Params.volume }}{{ $item.Params.volume }},{{ end }}
+      {{ if $item.Params.pages }}{{ $item.Params.pages }},{{ end }}
+      {{ $item.Date.Format "2006" }}.
+    {{ end }}
+  </div>
+  {{ end }}
+
+  <!-- Show attachments if any -->
+  {{ if $has_attachments }}
+  <div class="btn-links">
+    {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+  </div>
+  {{ end }}
+
+
+</div>
