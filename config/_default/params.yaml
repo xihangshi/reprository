@@ -10,8 +10,8 @@ appearance:
   theme_night:light
   #font: native
   #font_size: L
-  mode: light,dark
-  color: emerald
+  #mode: light,dark
+  #color: emerald
 
 # SEO
 
