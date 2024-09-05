@@ -2,9 +2,9 @@
 title: Bulk‐Plasmon‐Mediated Free‐Electron Radiation Beyond the Conventional Formation
   Time
 authors:
-- "Fuyang Tay^{\dagger}"
-- "Xiao Lin^{\dagger}"
-- "**Xihang Shi^{\dagger}**"
+- "Fuyang Tay<sup>&dagger;</sup>"
+- "Xiao Lin<sup>&dagger;</sup>"
+- "**Xihang Shi**<sup>&dagger;</sup>"
 - Hongsheng Chen
 - Ido Kaminer
 - Baile Zhang
