@@ -47,6 +47,5 @@ links:
   url: https://static-content.springer.com/esm/art%3A10.1038%2Fs41377-023-01141-2/MediaObjects/41377_2023_1141_MOESM1_ESM.pdf
 
 tags:
-- Application
-- X-rays
+- X-ray Optics
 ---
