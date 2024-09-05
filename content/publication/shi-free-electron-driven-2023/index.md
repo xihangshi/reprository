@@ -37,7 +37,7 @@ links:
   url: https://doi.org/10.1364/OPTICA.472462
 - name: PDF
   url: https://opg.optica.org/optica/viewmedia.cfm?uri=optica-10-2-292&seq=0
-- Supplement
+- name: Supplement
   url: https://opg.optica.org/optica/viewmedia.cfm?uri=optica-10-2-292&seq=s001
   
 ---
