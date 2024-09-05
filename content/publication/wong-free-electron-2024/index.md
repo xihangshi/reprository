@@ -34,6 +34,10 @@ abstract: Bremsstrahlung—the spontaneous emission of broadband radiation from 
   greater versatility in table-top X-ray sources and improved fundamental understanding
   of quantum electron-light interactions.
 links:
+- name: DOI
+  url: https://doi.org/10.1038/s41377-023-01363-4
+- name: PDF
+  url: https://rdcu.be/dS66x
 - name: Phys.Org
   url: https://phys.org/news/2024-01-team-generate-powerful-focused-rays.html
 - name: Light新媒体
