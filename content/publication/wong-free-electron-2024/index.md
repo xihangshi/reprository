@@ -47,4 +47,9 @@ image:
   caption: 'Image credit: [**Phys.Org**](https://phys.org/news/2024-01-team-generate-powerful-focused-rays.html)'
   focal_point: ''
   preview_only: false
+
+tags:
+- Application
+- X-rays
+featured: ture
 ---
