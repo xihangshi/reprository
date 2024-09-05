@@ -2,9 +2,9 @@
 title: Bulk‐Plasmon‐Mediated Free‐Electron Radiation Beyond the Conventional Formation
   Time
 authors:
-- Fuyang Tay
-- Xiao Lin
-- Xihang Shi
+- "Fuyang Tay^{\dagger}"
+- "Xiao Lin^{\dagger}"
+- "**Xihang Shi^{\dagger}**"
 - Hongsheng Chen
 - Ido Kaminer
 - Baile Zhang
@@ -12,7 +12,9 @@ date: '2023-07-01'
 publishDate: '2024-09-04T21:50:57.098784Z'
 publication_types:
 - article-journal
-publication: '*Advanced Science*'
+publication: 'Advanced Science'
+volume: 10
+pages: 2300760
 doi: 10.1002/advs.202300760
 abstract: Abstract Free‐electron radiation is a fundamental photon emission process
   that is induced by fast‐moving electrons interacting with optical media. Historically,
@@ -32,6 +34,10 @@ abstract: Abstract Free‐electron radiation is a fundamental photon emission pr
   regarding whether it is a surface or bulk effect, from transition radiation or plasmonic
   oscillation.
 links:
-- name: URL
-  url: https://onlinelibrary.wiley.com/doi/10.1002/advs.202300760
+- name: PDF
+  url: https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202300760
+- name: Supplement
+  url: https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadvs.202300760&file=advs5682-sup-0001-SuppMat.pdf
+
+
 ---
