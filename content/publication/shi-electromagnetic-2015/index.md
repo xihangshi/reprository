@@ -11,6 +11,8 @@ publication_types:
 - article-journal
 publication: 'Scientific Reports'
 doi: 10.1038/srep10401
+volume: 5
+pages: 10401
 abstract: Abstract  It has been shown that a spherical invisibility cloak originally
   proposed by Pendry et al. can be electromagnetically detected by shooting a charged
   particle through it, whose underlying mechanism stems from the asymmetry of transformation
@@ -25,6 +27,6 @@ abstract: Abstract  It has been shown that a spherical invisibility cloak origin
   a perfect carpet cloak and propose an experimentally verifiable model to demonstrate
   symmetry breaking of transformation optics.
 links:
-- name: URL
-  url: https://www.nature.com/articles/srep10401
+- name: PDF
+  url: https://rdcu.be/dS7HX
 ---
