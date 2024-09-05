@@ -1,7 +1,7 @@
 ---
 title: Electromagnetic Detection of a Perfect Carpet Cloak
 authors:
-- Xihang Shi
+- "**Xihang Shi**"
 - Fei Gao
 - Xiao Lin
 - Baile Zhang
@@ -9,7 +9,7 @@ date: '2015-05-01'
 publishDate: '2024-09-04T21:50:57.124960Z'
 publication_types:
 - article-journal
-publication: '*Scientific Reports*'
+publication: 'Scientific Reports'
 doi: 10.1038/srep10401
 abstract: Abstract  It has been shown that a spherical invisibility cloak originally
   proposed by Pendry et al. can be electromagnetically detected by shooting a charged

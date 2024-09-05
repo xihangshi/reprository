@@ -30,7 +30,7 @@ abstract: Tunable control of X-ray waves remains an open challenge of critical i
   X-ray optics technology. Looking forward, shaping the interference of X-rays at
   the atomic scale could enable further developments in high-resolution X-ray science.
 tags:
-- X-ray Optics
+- Free-electron X-ray Optics
   
 links:
 - name: DOI
