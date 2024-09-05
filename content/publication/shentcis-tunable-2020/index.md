@@ -3,7 +3,7 @@ title: Tunable free-electron X-ray radiation from van der Waals materials
 authors:
 - Michael Shentcis
 - Adam K. Budniak
-- Xihang Shi
+- ""*Xihang Shi**"
 - Raphael Dahan
 - Yaniv Kurman
 - Michael Kalina
