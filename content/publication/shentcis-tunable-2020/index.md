@@ -26,7 +26,7 @@ publication: 'Nature Photonics'
 volume: 14
 pages: 686–692
 doi: 10.1038/s41566-020-0689-7
-abstract: Tunable sources of X-ray radiation are widely used for imaging and spectroscopy
+abstract: 'Tunable sources of X-ray radiation are widely used for imaging and spectroscopy
   in fundamental science, medicine and industry. The growing demand for highly tunable,
   high-brightness laboratory-scale X-ray sources motivates research into new fundamental
   mechanisms of X-ray generation. Here, we demonstrate the ability of van der Waals
@@ -38,7 +38,8 @@ abstract: Tunable sources of X-ray radiation are widely used for imaging and spe
   for both methods, observing the energy tunability of X-ray radiation from the van
   der Waals materials WSe2, CrPS4, MnPS3, FePS3, CoPS3 and NiPS3. Our findings demonstrate
   the concept of material design at the atomic level, using van der Waals heterostructures
-  and other atomic superlattices, for exploring novel phenomena of X-ray physics.
+  and other atomic superlattices, for exploring novel phenomena of X-ray physics.'
+
 links:
 - name: PDF
   url: https://rdcu.be/dTewl
