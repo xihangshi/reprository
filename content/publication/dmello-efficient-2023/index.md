@@ -5,14 +5,16 @@ authors:
 - Yannick D’Mello
 - Raphael Dahan
 - Santiago Bernal
-- Xihang Shi
+- "**Xihang Shi**"
 - Ido Kaminer
 - David V Plant
 date: '2023-01-01'
 publishDate: '2024-09-04T21:50:57.084098Z'
 publication_types:
 - article-journal
-publication: '*Optics Express*'
+publication: 'Optics Express'
+volume: 31
+pages: 19443-19452
 doi: 10.1364/OE.491452
 abstract: Laser light can modulate the kinetic energy spectrum of free electrons and
   induce extremely high acceleration gradients, which are instrumental to electron
@@ -28,13 +30,10 @@ abstract: Laser light can modulate the kinetic energy spectrum of free electrons
   in hosting electron-photon interactions with direct applications in free-electron
   acceleration, radiation sources, and quantum information science.
 tags:
-- Energy transfer
-- Free electron lasers
-- Laser light
-- Silicon photonics
-- Spectral properties
-- Whispering gallery modes
+- Application
 links:
-- name: URL
-  url: https://opg.optica.org/oe/abstract.cfm?URI=oe-31-12-19443
+- name: PDF
+  url: https://opg.optica.org/oe/viewmedia.cfm?uri=oe-31-12-19443&seq=0
+- name: Supplement
+  url: https://opg.optica.org/oe/viewmedia.cfm?uri=oe-31-12-19443&seq=s001
 ---

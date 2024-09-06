@@ -6,7 +6,7 @@ authors:
 - Michael Shentcis
 - Ori Reinhardt
 - Yuval Adiv
-- Xihang Shi
+- "**Xihang Shi**"
 - Orr Be’er
 - Morgan H. Lynch
 - Yaniv Kurman
@@ -16,7 +16,9 @@ date: '2020-11-01'
 publishDate: '2024-09-04T21:50:57.047323Z'
 publication_types:
 - article-journal
-publication: '*Nature Physics*'
+publication: 'Nature Physics'
+volume: 16
+pages: 1123-1131
 doi: 10.1038/s41567-020-01042-w
 abstract: Quantum light–matter interactions of bound electron systems have been studied
   extensively. By contrast, quantum interactions of free electrons with light have
@@ -33,8 +35,24 @@ abstract: Quantum light–matter interactions of bound electron systems have bee
   electron phase-matching with a propagating wave is a type of inverse-Cherenkov interaction
   that occurs with a quantum electron wavefunction, demonstrating how the extended
   nature of the electron wavefunction can alter stimulated electron–light interactions.
+links:
+- name: PDF
+  url: https://rdcu.be/dTezV
+- name: Phys.Org
+  url: https://phys.org/news/2020-11-phase-matching-electron.html
+- name: Nature Blogs
+  url: https://blogs.nature.com/onyourwavelength/2021/03/03/light-and-matter-in-sync/
+- name: Supplement
+  url: https://static-content.springer.com/esm/art%3A10.1038%2Fs41567-020-01042-w/MediaObjects/41567_2020_1042_MOESM1_ESM.pdf
+- name: Video
+  url: https://static-content.springer.com/esm/art%3A10.1038%2Fs41567-020-01042-w/MediaObjects/41567_2020_1042_MOESM2_ESM.mp4
+
+image:
+  caption: 'Image credit: [**Phys.Org**](https://blogs.nature.com/onyourwavelength/2021/03/03/light-and-matter-in-sync/)'
+  focal_point: ''
+  preview_only: false
+
 tags:
-- Nonlinear optics
-- Quantum physics
-- Transmission electron microscopy
+- Free-electron Quantum Optics
+- Cherenkov Radiation
 ---
