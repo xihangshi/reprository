@@ -1,8 +1,9 @@
 ---
 title: Translation and Rotation of Transformation Media under Electromagnetic Pulse
+item_number: 9
 authors:
 - Fei Gao
-- Xihang Shi
+- "**Xihang Shi**"
 - Xiao Lin
 - Hongyi Xu
 - Baile Zhang
@@ -10,7 +11,9 @@ date: '2016-06-01'
 publishDate: '2024-09-04T21:50:57.159394Z'
 publication_types:
 - article-journal
-publication: '*Scientific Reports*'
+publication: 'Scientific Reports'
+volume: 6
+pages: 28346 
 doi: 10.1038/srep28346
 abstract: Abstract It is well known that optical media create artificial geometry
   for light and curved geometry acts as an effective optical medium. This correspondence
@@ -21,7 +24,5 @@ abstract: Abstract It is well known that optical media create artificial geometr
   and rotation of transformation media although their final momentum can still be
   zero. Therefore, the transformation media do not necessarily stay the same after
   an electromagnetic wave passes through.
-links:
-- name: URL
-  url: https://www.nature.com/articles/srep28346
+
 ---
