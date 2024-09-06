@@ -5,7 +5,7 @@ authors:
 - Youming Zhang
 - Zhen Gao
 - Fei Gao
-- Xihang Shi
+- "**Xihang Shi**"
 - Hongyi Xu
 - Yu Luo
 - Baile Zhang
