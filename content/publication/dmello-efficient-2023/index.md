@@ -1,6 +1,7 @@
 ---
 title: Efficient coupling between free electrons and the supermode of a silicon slot
   waveguide
+item_number: 16
 authors:
 - Yannick D’Mello
 - Raphael Dahan

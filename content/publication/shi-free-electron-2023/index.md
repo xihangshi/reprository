@@ -1,6 +1,7 @@
 ---
 title: 'Free-electron interactions with van der Waals heterostructures: a source of
   focused X-ray radiation'
+item_number: 17
 authors:
 - "**Xihang Shi**"
 - Yaniv Kurman
