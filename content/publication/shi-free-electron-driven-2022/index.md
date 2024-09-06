@@ -1,6 +1,6 @@
 ---
 title: Free-electron-driven X-ray caustics from strained van der Waals materials
-item_number: •
+item_number: 👨‍🏫
 authors:
 - "**Xihang Shi**"
 - Yaniv Kurman
