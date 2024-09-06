@@ -21,10 +21,10 @@ abstract: It has long been thought that the inverse Doppler frequency shift of l
 links:
 - name: PDF
   url: https://rdcu.be/dTexr
+- name: Cited by Wikipedia (Doppler effect)
+  url: https://en.wikipedia.org/wiki/Doppler_effect#cite_note-31
 - name: Editors' favourite paper in the area of optics, from all papers published between 2005-2020 in Nature Physics
   url: https://kaminer.technion.ac.il/files/2020/10/2020_Nature-Physics_15-years-of-Nature-Physics.pdf
-- name: Doppler effect from Wikipedia
-  url: https://en.wikipedia.org/wiki/Doppler_effect#cite_note-31
 - name: Supplement
   url: https://static-content.springer.com/esm/art%3A10.1038%2Fs41567-018-0209-6/MediaObjects/41567_2018_209_MOESM1_ESM.pdf
 - name: Video
