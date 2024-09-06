@@ -1,17 +1,20 @@
 ---
 title: Vertical transport of subwavelength localized surface electromagnetic modes
+item_number: 7
 authors:
 - Fei Gao
 - Zhen Gao
 - Youming Zhang
-- Xihang Shi
+- "**Xihang Shi**"
 - Zhaoju Yang
 - Baile Zhang
 date: '2015-09-01'
 publishDate: '2024-09-04T21:50:57.144984Z'
 publication_types:
 - article-journal
-publication: '*Laser & Photonics Reviews*'
+publication: 'Laser & Photonics Reviews'
+volume: 9
+pages: 571-576
 doi: 10.1002/lpor.201500117
 abstract: Abstract  Transport of subwavelength electromagnetic (EM) energy has been
   achieved through near‐field coupling of highly confined surface EM modes supported
@@ -26,8 +29,6 @@ abstract: Abstract  Transport of subwavelength electromagnetic (EM) energy has b
   spectrum and field mapping with a microwave near‐field scanning stage. This work
   extends the near‐field coupled resonator optical waveguide (CROW) theory into the
   vertical direction, and may find applications in novel three‐dimensional slow‐light
-  structures, filters, and photonic circuits.   image
-links:
-- name: URL
-  url: https://onlinelibrary.wiley.com/doi/10.1002/lpor.201500117
+  structures, filters, and photonic circuits.   
+
 ---
