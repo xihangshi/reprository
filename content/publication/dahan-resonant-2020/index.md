@@ -48,7 +48,7 @@ links:
   url: https://static-content.springer.com/esm/art%3A10.1038%2Fs41567-020-01042-w/MediaObjects/41567_2020_1042_MOESM2_ESM.mp4
 
 image:
-  caption: 'Image credit: [**Phys.Org**](https://blogs.nature.com/onyourwavelength/2021/03/03/light-and-matter-in-sync/)'
+  caption: 'Image credit: [**Phys.Org**](https://phys.org/news/2020-11-phase-matching-electron.html)'
   focal_point: ''
   preview_only: false
 
