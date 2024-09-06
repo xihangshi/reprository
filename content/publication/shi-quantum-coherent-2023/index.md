@@ -1,6 +1,6 @@
 ---
 title: Quantum-Coherent X-rays from Crystals
-item_number: •
+item_number: 🎤
 authors:
 - "**Xihang Shi**"
 - Lee Wei Wesley Wong
