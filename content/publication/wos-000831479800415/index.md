@@ -3,7 +3,7 @@ title: 'Free-Electron Interactions with Designed van der Waals Materials: Novel 
   of Lensed X-ray Radiation'
 item_number: '<sub>&middot;</sub>'
 authors:
-- Xihang Shi
+- "**Xihang Shi**"
 - Michael Shentcis
 - Javier Garcia de Abajo
 - Ido Kaminer
