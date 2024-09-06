@@ -1,7 +1,7 @@
 ---
 title: Bulk‐Plasmon‐Mediated Free‐Electron Radiation Beyond the Conventional Formation
   Time
-
+item_number: 19
 authors:
 - "Fuyang Tay<sup>&dagger;</sup>"
 - "Xiao Lin<sup>&dagger;</sup>"
