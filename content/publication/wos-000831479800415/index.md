@@ -1,6 +1,7 @@
 ---
 title: 'Free-Electron Interactions with Designed van der Waals Materials: Novel Source
   of Lensed X-ray Radiation'
+item_number: '<sub>&middot;</sub>'
 authors:
 - Xihang Shi
 - Michael Shentcis
