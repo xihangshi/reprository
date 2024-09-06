@@ -1,9 +1,10 @@
 ---
 title: Probing topological protection using a designer surface plasmon structure
+item_number: 8
 authors:
 - Fei Gao
 - Zhen Gao
-- Xihang Shi
+- "**Xihang Shi**"
 - Zhaoju Yang
 - Xiao Lin
 - Hongyi Xu
@@ -17,7 +18,9 @@ date: '2016-05-01'
 publishDate: '2024-09-04T21:50:57.152124Z'
 publication_types:
 - article-journal
-publication: '*Nature Communications*'
+publication: 'Nature Communications'
+volume: 7
+pages: 11619
 doi: 10.1038/ncomms11619
 abstract: Abstract Topological photonic states, inspired by robust chiral edge states
   in topological insulators, have recently been demonstrated in a few photonic systems,
@@ -32,7 +35,5 @@ abstract: Abstract Topological photonic states, inspired by robust chiral edge s
   electronic topological insulators. This is also an experimental realization of anomalous
   Floquet topological edge states, whose topological phase cannot be predicted by
   the usual Chern number topological invariants.
-links:
-- name: URL
-  url: https://www.nature.com/articles/ncomms11619
+
 ---
