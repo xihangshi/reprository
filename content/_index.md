@@ -55,11 +55,11 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
 
-  - block: hero
+  - block: collection
     content:
-      title: "<span style='font-size: 48px;'>Research Interests</span>"
+      title: Research Interests
       align: center
-      text: "<span style='font-size: 24px;'>The website is under construction.</span>"
+      text: The website is under construction
   
   - block: collection
     content:
