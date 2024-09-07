@@ -57,6 +57,6 @@ sections:
   - block: hero
     content:
       title: "<span style='font-size: 48px;'>Research Interests</span>"
-      text: The website is under construction. 
+      text: "<span style='font-size: 24px;'>The website is under construction.</span>"
         
 ---
