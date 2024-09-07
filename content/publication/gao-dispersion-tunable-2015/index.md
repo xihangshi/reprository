@@ -8,8 +8,8 @@ authors:
 - Zhaoju Yang
 - Xiao Lin
 - Baile Zhang
-date: '2015-03-01'
-publishDate: '2024-09-04T21:50:57.112421Z'
+date: '2015-03-05'
+publishDate: '2015-03-05T21:50:57.112421Z'
 publication_types:
 - article-journal
 publication: 'Optics Express'

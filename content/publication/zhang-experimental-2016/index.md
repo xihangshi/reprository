@@ -10,8 +10,8 @@ authors:
 - Hongyi Xu
 - Yu Luo
 - Baile Zhang
-date: '2016-12-01'
-publishDate: '2024-09-04T21:50:57.166704Z'
+date: '2016-12-23'
+publishDate: '2016-12-23T21:50:57.166704Z'
 publication_types:
 - article-journal
 publication: 'Physical Review B'

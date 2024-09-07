@@ -7,8 +7,8 @@ authors:
 - Fei Gao
 - "**Xihang Shi**"
 - Baile Zhang
-date: '2016-12-01'
-publishDate: '2024-09-04T21:50:57.173095Z'
+date: '2016-12-07'
+publishDate: '2016-12-07T21:50:57.173095Z'
 publication_types:
 - article-journal
 publication: 'New Journal of Physics'

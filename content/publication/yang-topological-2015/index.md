@@ -9,8 +9,8 @@ authors:
 - Zhen Gao
 - Yidong Chong
 - Baile Zhang
-date: '2015-03-01'
-publishDate: '2024-09-04T21:50:57.118706Z'
+date: '2015-03-20'
+publishDate: '2015-03-20T21:50:57.118706Z'
 publication_types:
 - article-journal
 publication: 'Physical Review Letters'
