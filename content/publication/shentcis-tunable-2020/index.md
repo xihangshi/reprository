@@ -25,7 +25,7 @@ publication_types:
 - article-journal
 publication: 'Nature Photonics'
 volume: 14
-pages: 686–692
+pages: 686-692
 doi: 10.1038/s41566-020-0689-7
 abstract: 'Tunable sources of X-ray radiation are widely used for imaging and spectroscopy
   in fundamental science, medicine and industry. The growing demand for highly tunable,

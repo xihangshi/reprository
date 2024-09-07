@@ -15,7 +15,7 @@ publication_types:
 - article-journal
 publication: 'Optics Express'
 volume: 31
-pages: 19443-19452
+pages: "19443-19452"
 doi: 10.1364/OE.491452
 abstract: Laser light can modulate the kinetic energy spectrum of free electrons and
   induce extremely high acceleration gradients, which are instrumental to electron
