@@ -71,10 +71,9 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article-journal'
-        folders:
-          - publication
-        publication_type: 'paper-conference'
+        publication_type: 
+          - 'article-journal'
+          - 'conference-paper'
     design:
       view: list
       columns: '1'     
