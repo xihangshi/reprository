@@ -15,7 +15,7 @@ pages: 29
 date: '2024-01-01'
 publishDate: '2024-09-04T21:50:57.077098Z'
 publication_types: 
-- research-article
+- article-journal
 publication: 'Light: Science & Applications'
 doi: 10.1038/s41377-023-01363-4
 abstract: Bremsstrahlung—the spontaneous emission of broadband radiation from free

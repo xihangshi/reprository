@@ -16,7 +16,7 @@ authors:
 date: '2020-10-12'
 publishDate: '2020-10-12T21:50:57.047323Z'
 publication_types:
-- Research article
+- article-journal
 publication: 'Nature Physics'
 volume: 16
 pages: 1123-1131
