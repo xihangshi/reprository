@@ -9,8 +9,8 @@ authors:
 - Liang Jie Wong
 - F Javier García de Abajo
 - Ido Kaminer
-date: '2023-01-01'
-publishDate: '2024-09-04T21:50:57.062460Z'
+date: '2023-06-16'
+publishDate: '2023-06-16T21:50:57.062460Z'
 publication_types:
 - article-journal
 publication: 'Light: Science & Applications'
@@ -36,8 +36,6 @@ abstract: The science and technology of X-ray optics have come far, enabling the
   of many-layer vdW heterostructures open unprecedented horizons of focusing and arbitrary
   shaping of X-ray nanobeams.
 links:
-- name: DOI
-  url: https://doi.org/10.1038/s41377-023-01141-2
 - name: PDF
   url: https://rdcu.be/dS0Vn
 - name: News & Views of Light
