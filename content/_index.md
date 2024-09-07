@@ -72,6 +72,7 @@ sections:
         folders:
           - publication
         publication_type: 'article-journal'
+        publication_type: 'paper-conference'
     design:
       view: list
       columns: '1'     
