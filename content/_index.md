@@ -18,6 +18,7 @@ sections:
               brightness: 0.4
           position: right
           color: '#666'
+          css_class: fullscreen
       
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
