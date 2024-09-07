@@ -72,6 +72,8 @@ sections:
         folders:
           - publication
         publication_type: 'article-journal'
+        folders:
+          - publication
         publication_type: 'paper-conference'
     design:
       view: list
