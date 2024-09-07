@@ -60,5 +60,17 @@ sections:
       title: "<span style='font-size: 48px;'>Research Interests</span>"
       align: center
       text: "<span style='font-size: 24px;'>The website is under construction.</span>"
-        
+  
+  - block: collection
+    content:
+      title: Latest publications
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'article'
+    design:
+      view: list
+      columns: '1'     
 ---
