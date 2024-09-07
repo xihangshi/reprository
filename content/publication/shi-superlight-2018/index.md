@@ -10,8 +10,8 @@ authors:
 - John D. Joannopoulos
 - Marin Soljačić
 - Baile Zhang
-date: '2018-10-01'
-publishDate: '2024-09-04T21:50:57.179302Z'
+date: '2018-07-09'
+publishDate: '2018-07-09T21:50:57.179302Z'
 publication_types:
 - article-journal
 publication: 'Nature Physics'

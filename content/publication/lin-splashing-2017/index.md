@@ -13,8 +13,8 @@ authors:
 - Marin Soljačić
 - Hongsheng Chen
 - Baile Zhang
-date: '2017-08-01'
-publishDate: '2024-09-04T21:50:57.069858Z'
+date: '2017-01-27'
+publishDate: '2017-01-27T21:50:57.069858Z'
 volume: 3
 pages: e1601192 
 publication_types:
