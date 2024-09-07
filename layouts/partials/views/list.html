@@ -50,7 +50,7 @@
   {{ if eq $item.Type "publication" }}
   <div class="article-metadata journal-details">
     {{ if $item.Params.publication }}
-      <b><i>{{ $item.Params.publication | plainify }}</i><b>, <!-- Italic journal name -->
+      <b><i>{{ $item.Params.publication | plainify }}</i></b>, <!-- Italic journal name -->
       {{ if $item.Params.volume }}{{ $item.Params.volume }},{{ end }}
       {{ if $item.Params.pages }}{{ $item.Params.pages }},{{ end }}
       {{ $item.Date.Format "2006" }}.
