@@ -12,7 +12,7 @@ authors:
 date: '2023-07-01'
 publishDate: '2024-09-04T21:50:57.098784Z'
 publication_types:
-- article-journal
+- research article
 publication: 'Advanced Science'
 volume: 10
 pages: 2300760
