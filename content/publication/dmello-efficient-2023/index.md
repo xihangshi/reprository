@@ -11,7 +11,7 @@ authors:
 - David V Plant
 date: '2023-06-05'
 publishDate: '2023-06-05T21:50:57.084098Z'
-publication_types: 'Research article'
+publication_types: 'Research Article'
 publication: 'Optics Express'
 volume: 31
 pages: "19443-19452"
