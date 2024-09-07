@@ -60,7 +60,9 @@ sections:
       title: Research Interest
       text: "Under construction"
       count: 
-      filters:      
+      filters:
+        folders:
+          -       
     design:
       view: list
       columns: '1'     
