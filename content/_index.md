@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Welcome to the Xihang Shi's Research Page
-        content: My research covers the entire spectrum from the fundamental all the way to the very applied. In particular, we strive to deepen our understanding of quantum science in the field of free-electron-light interactions and make use of it.
+      - title: "<span style='font-size: 48px;'>Welcome to the Xihang Shi's Research Page</span>"
+        content: "<span style='font-size: 24px;'>My research covers the entire spectrum from the fundamental all the way to the very applied. In particular, we strive to deepen our understanding of quantum science in the field of free-electron-light interactions and make use of it.</span>"
         align: center
         background:
           image:
@@ -57,6 +57,7 @@ sections:
   - block: hero
     content:
       title: "<span style='font-size: 48px;'>Research Interests</span>"
+      align: center
       text: "<span style='font-size: 24px;'>The website is under construction.</span>"
         
 ---
