@@ -57,9 +57,14 @@ sections:
 
   - block: collection
     content:
-      title: Research Interests
-      align: center
-      text: The website is under construction
+      title: Research Interest
+      text: "Under construction"
+      count: 
+      filters:
+      
+    design:
+      view: list
+      columns: '1'     
   
   - block: collection
     content:
