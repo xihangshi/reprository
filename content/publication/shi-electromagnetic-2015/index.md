@@ -14,7 +14,7 @@ publication: 'Scientific Reports'
 doi: 10.1038/srep10401
 volume: 5
 pages: 10401
-abstract: Abstract  It has been shown that a spherical invisibility cloak originally
+abstract: It has been shown that a spherical invisibility cloak originally
   proposed by Pendry et al. can be electromagnetically detected by shooting a charged
   particle through it, whose underlying mechanism stems from the asymmetry of transformation
   optics applied to motions of photons and charges [PRL 103, 243901 (2009)]. However,

@@ -23,7 +23,7 @@ publication: 'Science Advances'
 doi: 10.1126/sciadv.1601192
 abstract: Revealing how 2D plasmons emerge and evolve in electron energy?loss spectroscopy
   (EELS). Launching of plasmons by swift electrons has long been used in electron
-  energy?loss spectroscopy (EELS) to investigate the plasmonic properties of ultrathin,
+  energy loss spectroscopy (EELS) to investigate the plasmonic properties of ultrathin,
   or two-dimensional (2D), electron systems. However, the question of how a swift
   electron generates plasmons in space and time has never been answered. We address
   this issue by calculating and demonstrating the spatial-temporal dynamics of 2D

@@ -17,7 +17,7 @@ publication: 'Advanced Science'
 volume: 10
 pages: 2300760
 doi: 10.1002/advs.202300760
-abstract: Abstract Free‐electron radiation is a fundamental photon emission process
+abstract: Free‐electron radiation is a fundamental photon emission process
   that is induced by fast‐moving electrons interacting with optical media. Historically,
   it has been understood that, just like any other photon emission process, free‐electron
   radiation must be constrained within a finite time interval known as the “formation
