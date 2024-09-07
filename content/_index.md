@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: "<span style='font-size: 48px;'>Welcome to the Xihang Shi's Research Page</span>"
+      - title: "<span style='font-size: 48px;'>Welcome to the Research Page</span>"
         content: "<span style='font-size: 24px;'>My research covers the entire spectrum from the fundamental all the way to the very applied. In particular, we strive to deepen our understanding of quantum science in the field of free-electron-light interactions and make use of it.</span>"
         align: center
         background:
