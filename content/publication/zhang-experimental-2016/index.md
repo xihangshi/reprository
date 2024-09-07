@@ -13,7 +13,7 @@ authors:
 date: '2016-12-23'
 publishDate: '2016-12-23T21:50:57.166704Z'
 publication_types:
-- research-article
+- article-journal
 publication: 'Physical Review B'
 volume: 94
 pages: 220304 
