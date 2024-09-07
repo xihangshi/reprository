@@ -55,17 +55,13 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
 
-  - block: collection
+  - block: markdown
     content:
-      title: Research Interest
-      text: "Under construction"
-      count: 
-      filters:
-        folders:
-          -       
+      title: Research Interests
+      subtitle:
+      text: under construction
     design:
-      view: list
-      columns: '1'     
+      columns: '1'
   
   - block: collection
     content:
