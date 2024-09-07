@@ -14,7 +14,7 @@ publication_types:
 - article-journal
 publication: 'Optics Express'
 volume: 23
-pages: '6896-6902'
+pages: "6896-6902"
 
 doi: 10.1364/OE.23.006896
 
