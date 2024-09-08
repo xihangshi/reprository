@@ -8,7 +8,7 @@
     {{- if gt $index 0 }}, {{ end -}}
 
     <span 
-      {{ if eq .LinkTitle "Xihang Shi" }}style="color: #3498db;"{{ else if $highlight_name }}class="author-hover-highlight"{{end}}
+      {{ if eq .LinkTitle "Xihang Shi" }}style="color: #3498db;"{{end}}
     >
       {{- if .RelPermalink -}}
         <a>{{.LinkTitle | markdownify }}</a>  <!-- Other authors with link -->
