@@ -8,7 +8,7 @@
     {{- if gt $index 0 }}, {{ end -}}
 
     <span 
-      {{ if eq .LinkTitle "Xihang, Shi" }}class="author-highlighted"{{ else if $highlight_name }}class="author-highlighted"{{end}}
+      {{ if eq .LinkTitle "Xihang Shi" }}class="author-highlighted-always"{{ else }}class="author-hover-highlight"{{end}}
     >
       {{/* Check the page's `_build` option */}}
       {{- if .RelPermalink -}}
