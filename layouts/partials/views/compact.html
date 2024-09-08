@@ -43,7 +43,7 @@
       {{ if $item.Params.publication_short }}
         {{- $item.Params.publication_short | plainify -}}.
       {{ else if $item.Params.publication }}
-      <b><i>{{ $item.Params.publication | plainify }}</i></b>, <!-- Italic journal name -->.
+      <b><i>{{ $item.Params.publication | plainify }}</i></b> <!-- Italic journal name -->.
       {{ end }}
     </div>
 
