@@ -9,17 +9,10 @@
 
     <span>
       {{- if .RelPermalink -}}
-        {{ if eq .LinkTitle "Xihang Shi" }}
-          <a  style="color: #1565c0;">Xihang Shi</a>  <!-- Xihang Shi always highlighted -->
-        {{- else -}}
-          <a >{{ .LinkTitle | markdownify }}</a>  <!-- Other authors with link -->
-        {{- end -}}
+      {{ if eq .LinkTitle "Xihang Shi" }}
+      <a style="color: #1565c0;">Xihang Shi</a> <!-- Xihang Shi always highlighted -->
       {{- else -}}
-        {{ if eq .LinkTitle "Xihang Shi" }}
-          <span style="color: #1565c0;">Xihang Shi</span>  <!-- Xihang Shi without link, but highlighted -->
-        {{- else -}}
-          <span>{{ .LinkTitle | markdownify }}</span>  <!-- Other names without link -->
-        {{- end -}}
+      <a >{{ .LinkTitle | markdownify }}</a> <!-- Other authors with link -->
       {{- end -}}
     </span>
     
