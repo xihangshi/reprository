@@ -25,7 +25,7 @@ abstract: Phenomena of free-electron X-ray radiation are treated almost exclusiv
 image:
   caption: 'Image credit: [**Nature Commun.**](https://doi.org/10.1038/s41467-024-52050-w)'
   focal_point: ''
-  preview_only: true
+  preview_only: false
 
 tags:
 - Free-electron quantum optics
