@@ -10,7 +10,7 @@
     <span>
       {{- if .RelPermalink -}}
       {{ if eq .LinkTitle "Xihang Shi" }}
-      <a style="color: #1565c0;">Xihang Shi</a> <!-- Xihang Shi always highlighted -->
+      <a target=_blank rel=noopener>Xihang Shi</a> <!-- Xihang Shi always highlighted -->
       {{- else -}}
       <a >{{ .LinkTitle | markdownify }}</a> <!-- Other authors with link -->
       {{- end -}}
