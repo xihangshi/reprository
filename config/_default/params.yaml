@@ -6,12 +6,12 @@
 # Appearance
 
 appearance:
-  #theme_day: dark
+  theme_day: light
   theme_night: minimal
   # theme_night: solarized-light 
   #font: native
   #font_size: L
-  mode: light
+  # mode: light
   color: emerald
 
 # SEO
