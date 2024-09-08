@@ -6,7 +6,7 @@ authors:
 - Lee Wei Wesley Wong
 - Sunchao Huang
 - Liang Jie Wong
-- Ido Kaminer<sup>✉️</sup>
+- Ido Kaminer
 date: '2024-09-01'
 publishDate: '2024-09-07T14:24:45.801429Z'
 publication_types:
