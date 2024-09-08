@@ -7,7 +7,7 @@
 
 appearance:
   #theme_day: dark
-  #theme_night: minimal
+  theme_night: minimal
   # theme_night: solarized-light 
   #font: native
   #font_size: L
@@ -26,7 +26,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: false
     show_theme_chooser: true
     highlight_active_link: true
