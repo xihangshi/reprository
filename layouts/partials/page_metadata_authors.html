@@ -7,17 +7,22 @@
 
     {{- if gt $index 0 }}, {{ end -}}
 
-    <span 
-      {{ if eq .LinkTitle "Xihang Shi" }}
-      <a style="color: #3498db;">Xihang Shi</a>
-      {{end}}
-    >
+    <span>
       {{- if .RelPermalink -}}
-        <a>{{.LinkTitle | markdownify }}</a>  <!-- Other authors with link -->
+        {{ if eq .LinkTitle "Xihang Shi" }}
+          <a href="{{ .RelPermalink }}" style="color: #3498db;">Xihang Shi</a>  <!-- Xihang Shi always highlighted -->
+        {{- else -}}
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle | markdownify }}</a>  <!-- Other authors with link -->
+        {{- end -}}
       {{- else -}}
-        {{ .LinkTitle | markdownify }}  <!-- Name without a link -->
+        {{ if eq .LinkTitle "Xihang Shi" }}
+          <span style="color: #3498db;">Xihang Shi</span>  <!-- Xihang Shi without link, but highlighted -->
+        {{- else -}}
+          <span>{{ .LinkTitle | markdownify }}</span>  <!-- Other names without link -->
+        {{- end -}}
       {{- end -}}
     </span>
+    
 
     {{- if isset $.Params "author_notes" -}}
       {{- with (index $.Params.author_notes $index) -}}
