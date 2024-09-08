@@ -40,10 +40,15 @@
 
     {{/* Show journal name below the title with the same style as the summary and author name */}}
     <div class="article-metadata journal-name">
-      {{ if $item.Params.publication_short }}
-        {{- $item.Params.publication_short | plainify -}}.
-      {{ else if $item.Params.publication }}
-      <b><i>{{ $item.Params.publication | plainify }}</i></b> <!-- Italic journal name -->.
+      {{ if eq $item.Type "publication" }}
+      <div class="article-metadata journal-details">
+        {{ if $item.Params.publication }}
+          <b><i>{{ $item.Params.publication | plainify }}</i></b>, <!-- Italic journal name -->
+          {{ if $item.Params.volume }}{{ $item.Params.volume }},{{ end }}
+          {{ if $item.Params.pages }}{{ $item.Params.pages }},{{ end }}
+          {{ $item.Date.Format "2006" }}.
+        {{ end }}
+      </div>
       {{ end }}
     </div>
 
