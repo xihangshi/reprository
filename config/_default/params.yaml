@@ -6,12 +6,12 @@
 # Appearance
 
 appearance:
-  theme_day: dark
-  theme_night: minimal
+  #theme_day: dark
+  #theme_night: minimal
   # theme_night: solarized-light 
   #font: native
   #font_size: L
-  #mode: light,dark
+  mode: light
   color: emerald
 
 # SEO
@@ -28,7 +28,7 @@ header:
     show_language: false
     show_day_night: true
     show_search: false
-    show_theme_chooser: false
+    show_theme_chooser: true
     highlight_active_link: true
 
 # Site footer
