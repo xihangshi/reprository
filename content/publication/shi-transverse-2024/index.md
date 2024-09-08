@@ -2,7 +2,7 @@
 title: Transverse recoil imprinted on free-electron radiation
 item_number: 21
 authors:
-- Xihang Shi
+- "**Xihang Shi**"
 - Lee Wei Wesley Wong
 - Sunchao Huang
 - Liang Jie Wong
