@@ -1,4 +1,5 @@
 {{/* Display author list. */}}
+
 {{- $taxonomy := "authors" }}
 {{ if .Param $taxonomy }}
   {{ range $index, $value := (.GetTerms $taxonomy) }}
@@ -6,24 +7,18 @@
     {{- $highlight_name := .Page.Params.highlight_name | default false -}}
 
     {{- if gt $index 0 }}, {{ end -}}
-
-    <span 
-      {{ if eq .LinkTitle "Xihang Shi" }}style="color: #3498db;"{{ else if $highlight_name }}class="author-hover-highlight"{{end}}
-    >
+    <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
+      {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
       {{- if .RelPermalink -}}
-        <a>{{ .LinkTitle }}</a>  <!-- For other authors, link stays -->
-      {{- else if eq .LinkTitle "Xihang Shi" -}}
-        Xihang Shi  <!-- Directly display "Xihang Shi" without markdownify -->
+        <a>{{.LinkTitle | markdownify}}</a>
       {{- else -}}
-        {{ .LinkTitle }}  <!-- Other names without link and no markdownify -->
+        {{ .LinkTitle | markdownify}}
       {{- end -}}
     </span>
-
     {{- if isset $.Params "author_notes" -}}
       {{- with (index $.Params.author_notes $index) -}}
         <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{.}}"></i>
       {{- end -}}
     {{- end -}}
-
   {{- end -}}
 {{- end -}}
