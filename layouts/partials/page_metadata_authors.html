@@ -8,12 +8,14 @@
     {{- if gt $index 0 }}, {{ end -}}
 
     <span 
-      {{ if eq .LinkTitle "Xihang Shi" }}style="color: #3498db;"{{end}}
+      {{ if eq .LinkTitle "Xihang Shi" }}style="color: #3498db;"{{ else if $highlight_name }}class="author-hover-highlight"{{end}}
     >
       {{- if .RelPermalink -}}
-        <a>{{.LinkTitle | markdownify }}</a>  <!-- Other authors with link -->
+        <a>{{ .LinkTitle }}</a>  <!-- For other authors, link stays -->
+      {{- else if eq .LinkTitle "Xihang Shi" -}}
+        Xihang Shi  <!-- Directly display "Xihang Shi" without markdownify -->
       {{- else -}}
-        {{ .LinkTitle | markdownify }}  <!-- Name without a link -->
+        {{ .LinkTitle }}  <!-- Other names without link and no markdownify -->
       {{- end -}}
     </span>
 
