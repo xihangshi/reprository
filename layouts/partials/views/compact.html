@@ -41,9 +41,9 @@
     {{/* Show journal name below the title with the same style as the summary and author name */}}
     <div class="article-metadata journal-name">
       {{ if $item.Params.publication_short }}
-        {{- $item.Params.publication_short | markdownify -}}.
+        {{- $item.Params.publication_short | plainify -}}.
       {{ else if $item.Params.publication }}
-        {{- $item.Params.publication | markdownify -}}.
+      <b><i>{{ $item.Params.publication | plainify }}</i></b>, <!-- Italic journal name -->.
       {{ end }}
     </div>
 
