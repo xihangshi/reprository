@@ -28,8 +28,9 @@ sections:
             filename: Research_dir.jpg
             filters:
               brightness: 0.7
+            size: cover
           position: bottom
-          size: cover
+          
           color: '#555'
       
       - title: World-Class Semiconductor Lab
