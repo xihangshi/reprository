@@ -28,7 +28,7 @@ sections:
             filename: Research_dir.jpg
             filters:
               brightness: 0.7
-            size: cover
+            size: contain
           position: center
           color: '#555'
       
