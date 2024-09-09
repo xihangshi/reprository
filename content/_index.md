@@ -16,12 +16,11 @@ sections:
             filename: homepage1.jpg
             filters:
               brightness: 0.4
-            size: contain
+            size: cover
           position: right
           color: '#666'
-          css_class: "padding: 20px;"
-      
-      - title: ''
+                
+      - title: "<span style='font-size: 48px;'>Research Interests</span>"
         content: 
         align: top
         background:
