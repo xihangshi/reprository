@@ -22,13 +22,13 @@ sections:
       
       - title: 'Research Interests'
         content: 
-        align: left
+        align: top
         background:
           image:
             filename: Research_dir.jpg
             filters:
               brightness: 0.7
-          position: center
+          position: bottom
           color: '#555'
       
       - title: World-Class Semiconductor Lab
