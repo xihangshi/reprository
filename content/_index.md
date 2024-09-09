@@ -29,8 +29,7 @@ sections:
             filters:
               brightness: 0.7
             size: cover
-          position: bottom
-          
+          position: container
           color: '#555'
       
       - title: World-Class Semiconductor Lab
