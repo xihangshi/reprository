@@ -22,7 +22,7 @@ sections:
                 
       - title: "<span style='font-size: 48px;'>Research Interests</span>"
         content: 
-        align: top
+        align: center
         background:
           image:
             filename: Research_dir.jpg
