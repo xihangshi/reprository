@@ -20,7 +20,7 @@ sections:
           color: '#666'
           css_class: "padding: 20px;"
       
-      - title: 'Research Interests'
+      - title: ''
         content: 
         align: top
         background:
