@@ -49,12 +49,14 @@ sections:
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
+      spacing: 
+        padding: ['20px', '0', '20px', '0']
       slide_height: 100%
       is_fullscreen: ture
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 3000
 
   - block: markdown
     content:
