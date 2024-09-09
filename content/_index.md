@@ -16,6 +16,7 @@ sections:
             filename: homepage1.jpg
             filters:
               brightness: 0.4
+            size: contain
           position: right
           color: '#666'
           css_class: "padding: 20px;"
