@@ -20,12 +20,12 @@ sections:
           color: '#666'
           css_class: "padding: 20px;"
       
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: 'Research Interests'
+        content: 
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: Research_dir.jpg
             filters:
               brightness: 0.7
           position: center
