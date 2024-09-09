@@ -52,7 +52,7 @@ sections:
       slide_height: 100%
       is_fullscreen: ture
       # Automatically transition through slides?
-      loop: true
+      loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
 
