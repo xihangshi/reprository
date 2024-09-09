@@ -28,7 +28,7 @@ sections:
             filename: Research_dir.jpg
             filters:
               brightness: 0.7
-            size: container
+            size: cover
           position: center
           color: '#555'
       
@@ -49,7 +49,7 @@ sections:
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: 400px
+      slide_height: ''
       is_fullscreen: ture
       # Automatically transition through slides?
       loop: false
