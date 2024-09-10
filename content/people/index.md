@@ -31,6 +31,7 @@ sections:
       text: |
         <br>
             2018-2024 -- xxx
+        <br>
             2018-2024 -- xxx
     design:
       columns: '1'
