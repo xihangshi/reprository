@@ -6,28 +6,23 @@ type: landing
 
  
 
-# Page sections
 sections:
-  - block: resume-experience
+  - block: people
     content:
-      username: admin
+      title: Biography
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+          - Principal Investigators
+          # - Researchers
+          # - Grad Students
+          # - Administration
+          # - Visitors
+          # - Alumni
+      sort_by: Params.last_name
+      sort_ascending: true
     design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  #- block: resume-skills
-  #  content:
-  #    title: Skills & Hobbies
-  #    username: admin
-  #  design:
-  #    show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Awards
-  #    username: admin
-  #- block: resume-languages
-  #  content:
-  #    title: Languages
-  #    username: admin
+      show_interests: false
+      show_role: true
+      show_social: true
 ---
