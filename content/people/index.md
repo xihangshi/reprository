@@ -28,8 +28,9 @@ sections:
     content:
       title: Working experience
       subtitle:
-      text: 2018-2024 xxx
-            2018-2024 xxx
+      text: |
+            2018-2024 -- xxx
+            2018-2024 -- xxx
     design:
       columns: '1'
 
