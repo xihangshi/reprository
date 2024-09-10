@@ -20,7 +20,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-Working experiences:
+
+
+interests:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+
+education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
@@ -31,11 +38,6 @@ Working experiences:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
 
 education:
   courses:
