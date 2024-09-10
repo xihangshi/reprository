@@ -29,6 +29,7 @@ sections:
       title: Working experience
       subtitle:
       text: |
+        <br>
             2018-2024 -- xxx
             2018-2024 -- xxx
     design:
