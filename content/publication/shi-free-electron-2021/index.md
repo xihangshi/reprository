@@ -17,6 +17,4 @@ abstract: We propose two novel X-ray generation schemes based on free electron i
   with van der Waals materials, in which the crystal geometry is shaped to create
   intrinsic lensing of the generated X-rays.
 
-tags:
-  - Free-electron X-ray optics
 ---

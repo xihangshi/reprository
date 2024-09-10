@@ -16,6 +16,4 @@ abstract: We present a concept for creating quantum X-ray radiation heralded by 
   electrons, showing conditions for squeezed vacuum and Schrodinger cat states of
   X-rays, created by post-selected pre-bunched electrons.
 
-tags:
-  - Free-electron quantum optics
 ---

@@ -18,6 +18,5 @@ abstract: We present the concept of customized van der Waals heterostructures wi
   periodicity tailored to generate pre-designed X-ray patterns from free electrons.
   As an example, we demonstrate focused X-ray beams.
 
-tags:
-  - Free-electron X-ray optics
+
 ---

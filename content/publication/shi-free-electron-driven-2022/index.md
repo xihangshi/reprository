@@ -17,6 +17,4 @@ doi: 10.1364/CLEO_QELS.2022.FTh4A.5
 abstract: We show that X-ray caustics and specifically X-ray Airy beams can be created
   from free-electron interactions with strained van der Waals materials.
 
-tags:
-  - Free-electron X-ray optics
 ---
