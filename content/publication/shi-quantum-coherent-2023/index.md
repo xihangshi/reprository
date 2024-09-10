@@ -15,5 +15,8 @@ doi: 10.1364/CLEO_FS.2023.FF3B.4
 abstract: We present a quantum analysis of X-ray radiation generated from free electrons
   interacting with crystalline materials, revealing the role of the electron’s quantum-wave
   nature and of the radiation’s quantum-particle nature.
+tags:
+  - Free-electron quantum optics
+  - Free-electron X-ray optics
 
 ---
