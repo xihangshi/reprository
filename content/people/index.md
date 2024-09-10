@@ -23,4 +23,14 @@ sections:
       show_interests: true
       show_role: true
       show_social: true
+
+  - block: markdown
+    content:
+      title: Working experience
+      subtitle:
+      text: 2018-2024 xxx
+            2018-2024 xxx
+    design:
+      columns: '1'
+
 ---
