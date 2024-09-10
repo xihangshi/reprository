@@ -40,6 +40,7 @@ sections:
             filename: NC_recoil.jpg
             filters:
               brightness: 0.5
+            size: contain
           position: center
           color: '#333'
   #      link:
