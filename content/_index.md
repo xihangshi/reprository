@@ -33,7 +33,7 @@ sections:
           color: '#555'
       
       - title: 'Quantum Recoil'
-        content: '[Quantum Recoil](https://xihang-shi.com)'
+        content: '[Quantum Recoil](https://www.xihang-shi.com)'
         align: top
         background:
           image:
