@@ -34,7 +34,7 @@ sections:
       
       - title: 'Quantum Recoil'
         content: 'Quantum Recoil'
-        align: right
+        align: top
         background:
           image:
             filename: NC_recoil.jpg
