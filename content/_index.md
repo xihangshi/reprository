@@ -32,9 +32,9 @@ sections:
           position: left
           color: '#555'
       
-      - title: ''
-        content: ''
-        align: right
+      - title: 'Quantum Recoil'
+        content: 'Quantum Recoil'
+        align: top
         background:
           image:
             filename: NC_recoil.jpg
