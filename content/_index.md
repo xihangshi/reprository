@@ -41,7 +41,7 @@ sections:
             filters:
               brightness: 0.5
             size: contain
-          position: center
+          position: top
           color: '#333'
   #      link:
   #        icon: graduation-cap
