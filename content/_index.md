@@ -21,7 +21,7 @@ sections:
           color: '#666'
                 
      
-      - title: 'Transverse Recoil Imprinted on Free-electron Radiation'
+      - title: "<span style='font-size: 48px;'>Transverse Recoil Imprinted on Free-electron Radiation</span>"
         content: '[Nature Communication (2024)](https://rdcu.be/dTrDC)'
         align: top
         background:
@@ -33,7 +33,7 @@ sections:
           position: top
           color: '#333'
 
-      - title: 'Focused X-ray Beam Driven by Free Electrons'
+      - title: "<span style='font-size: 48px;'>Focused X-ray Beam Driven by Free Electrons</span>"
         content: '[Light: Science & Applications (2023)](https://rdcu.be/dS66x)'
         align: top
         background:
@@ -45,7 +45,7 @@ sections:
           position: top
           color: '#333'
 
-      - title: ' Tunable & Compact Free-electron X-ray Sources'
+      - title: "<span style='font-size: 48px;'>Tunable & Compact Free-electron X-ray Sources</span>"
         content: '[Nature Photonics (2020)](https://doi.org/10.1038/s41566-020-0689-7)'
         align: top
         background:
@@ -57,7 +57,7 @@ sections:
           position: top
           color: '#333'
 
-      - title: 'Superlight Inverse Doppler Effect'
+      - title: "<span style='font-size: 48px;'>Superlight Inverse Doppler Effect</span>"
         content: '[Nature Physics(2018)](https://doi.org/10.1038/s41567-018-0209-6)'
         align: top
         background:
