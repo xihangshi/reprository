@@ -20,29 +20,55 @@ sections:
           position: right
           color: '#666'
                 
-      - title: "<span style='font-size: 48px;'>Research Interests</span>"
-        content: 
-        align: center
-        background:
-          image:
-            filename: Research_dir.jpg
-            filters:
-              brightness: 0.7
-            size: contain
-          position: left
-          color: '#555'
-      
-      - title: 'Quantum Recoil'
-        content: '[Quantum Recoil](https://www.xihang-shi.com)'
+     
+      - title: 'Transverse Recoil Imprinted on Free-electron Radiation'
+        content: '[Nature Communication(2024)](https://rdcu.be/dTrDC)'
         align: top
         background:
           image:
-            filename: NC_recoil.jpg
+            filename: Picture1.jpg
             filters:
               brightness: 0.5
             size: contain
           position: top
           color: '#333'
+
+      - title: 'Focused X-ray beam driven by Free Electrons'
+        content: '[Light: Science & Applications(2023)](https://rdcu.be/dS66x)'
+        align: top
+        background:
+          image:
+            filename: Picture2.jpg
+            filters:
+              brightness: 0.5
+            size: contain
+          position: top
+          color: '#333'
+
+      - title: ' Tunable & Compact Free-electron X-ray Sources'
+        content: '[Nature Photonics(2020)](https://doi.org/10.1038/s41566-020-0689-7)'
+        align: top
+        background:
+          image:
+            filename: Picture2.jpg
+            filters:
+              brightness: 0.5
+            size: contain
+          position: top
+          color: '#333'
+
+      - title: 'Superlight inverse Doppler effect'
+        content: '[Nature Physics(2018)](https://doi.org/10.1038/s41567-018-0209-6)'
+        align: top
+        background:
+          image:
+            filename: Picture3.jpg
+            filters:
+              brightness: 0.5
+            size: contain
+          position: top
+          color: '#333'    
+
   #      link:
   #        icon: graduation-cap
   #        icon_pack: fas
