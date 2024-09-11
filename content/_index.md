@@ -50,7 +50,7 @@ sections:
         align: top
         background:
           image:
-            filename: Picture2.jpg
+            filename: Picture4.jpg
             filters:
               brightness: 0.5
             size: contain
