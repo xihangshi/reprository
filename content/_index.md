@@ -34,7 +34,7 @@ sections:
           color: '#333'
 
       - title: "<span style='font-size: 48px;'>Focused X-ray Beam Driven by Free Electrons</span>"
-        content: '[Light: Science & Applications (2023)](https://rdcu.be/dS66x)'
+        content: '[Light: Science & Applications (2023)](https://rdcu.be/dS0Vn)'
         align: top
         background:
           image:
