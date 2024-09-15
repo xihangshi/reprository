@@ -8,7 +8,7 @@ title: Free-electron optics
 sections:
   - block: hero
     content:
-      title: 
+      title: "<span style='font-size: 48px;'> Free-electron optics </span>
       image:        
         filename: Research_dir.jpg
       # cta:
