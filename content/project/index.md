@@ -30,6 +30,6 @@ sections:
     content:
       title: Free-electron QED
       text: |
-        ![Cute Cat](/media/Research_dir.jpg)
+        ![Cute Cat](Research_dir.jpg)
 
 ---
