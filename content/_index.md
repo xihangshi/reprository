@@ -86,22 +86,10 @@ sections:
   - block: markdown
     content:
       title: Research Interests
-      subtitle:
+      subtitle: "[Free-electron optics](/project/)"
       text: under construction
     design:
       columns: '1'
-
-  - block: collection
-    content:
-      title: Research Interests
-      text: ""
-      filters:
-        folders:
-          - project
-      
-      design:
-      view: list
-      columns: '1'      
 
   - block: collection
     content:
