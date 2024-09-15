@@ -26,8 +26,15 @@ sections:
     #     text_color_light: true
 
   - block: markdown
+    id: free_electron_QED
     content:
       title: Free-electron QED
       text: My research focuses on free-electron raidation mediated by bulk and nanophotonic materials. In particular, we strive to deepen our unerstanding of quantum science in the field, and propose new applications based on the quantum materials and quantum technologies.
+
+  - block: markdown
+    id: Tunable_Xray_sources
+    content:
+      title: Tunable X-ray sources
+      text: My research focuses on free-electron raidation mediated by bulk and nanophotonic materials. In particular, we strive to deepen our unerstanding of quantum science in the field, and propose new applications based on the quantum materials and quantum technologies.      
       
 ---
