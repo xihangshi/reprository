@@ -14,14 +14,12 @@ sections:
       text: |
         My research focuses on free-electron raidation mediated by bulk and nanophotonic materials.
 
-    - block: hero
-    content:
-      title: |
-        Xihang Shi
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The website is under construction.      
+- block: grid
+  content:
+    items:
+    - title: "Card 1"
+      description: "Description 1"
+    - title: "Card 2"
+      description: "Description 2"
+  
 ---
