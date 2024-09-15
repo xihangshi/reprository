@@ -29,7 +29,6 @@ sections:
     id: free_electron_QED
     content:
       title: Free-electron QED
-      text: |
-        ![my image] (assets/media/Research_dir.jpg)
+      text: "![Cute Cat](https://example.com/cat.png)"
 
 ---
