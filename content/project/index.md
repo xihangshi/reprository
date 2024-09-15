@@ -25,7 +25,7 @@ sections:
     #     gradient_start: '#004ba0'
     #     text_color_light: true
 
-   - block: markdown
+    - block: markdown
       content:
         title: Free-electron QED
         text: ddd
