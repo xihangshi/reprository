@@ -4,10 +4,12 @@ date: 2022-10-24
 
 type: landing
 
+"<span style='font-size: 48px;'> Free-electron optics </span>"
+
 sections:
   - block: hero
     content:
-      title: "<span style='font-size: 48px;'> Free-electron optics </span>"
+      title: 
       image:        
         filename: Research_dir.jpg
       # cta:
