@@ -6,6 +6,14 @@ type: landing
 title: Free-electron optics
 
 sections:
+  - block: markdown
+    id: research_interests
+    content:
+      title: Research Interests
+      text: |
+      My research focuses on free-electron raidation mediated by bulk and nanophotonic materials. In particular, we strive to deepen our unerstanding of quantum science in the field, and propose new applications based on the quantum materials and quantum technologies.
+        ![Cute Cat](Research_dir.jpg)
+
   - block: hero
     id: project_free_ele_optics
     content:
@@ -25,16 +33,6 @@ sections:
     #     gradient_start: '#004ba0'
     #     text_color_light: true
 
-  - block: hero
-    id: free_electron_QED
-    content:
-      title: Free-electron QED
-      text: |
-        My research focuses on free-electron raidation mediated by bulk and nanophotonic materials. In particular, we strive to deepen our unerstanding of quantum science in the field, and propose new applications based on the quantum materials and quantum technologies.
-      image:        
-        filename: Research_dir.jpg
-      text: |
-        xxx afdsad  
 
 
 ---
