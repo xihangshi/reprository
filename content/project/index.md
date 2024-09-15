@@ -7,6 +7,7 @@ title: Free-electron optics
 
 sections:
   - block: hero
+    id: project_free_ele_optics
     content:
       title: "<span style='font-size: 48px;'> Free-electron optics </span>"
       image:        
