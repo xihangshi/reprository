@@ -4,7 +4,7 @@ date: 2022-10-24
 
 type: landing
 
-"<span style='font-size: 48px;'> Free-electron optics </span>"
+Free-electron optics
 
 sections:
   - block: hero
