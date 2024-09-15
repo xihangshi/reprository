@@ -16,5 +16,10 @@ sections:
 
       text: |
         My research focuses on free-electron raidation mediated by bulk and nanophotonic materials.
-  
+    design:
+      # Choose an optional background color, gradient, image, or video
+      background:
+        gradient_end: '#1976d2'
+        gradient_start: '#004ba0'
+        text_color_light: true
 ---
