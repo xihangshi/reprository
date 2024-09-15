@@ -91,17 +91,17 @@ sections:
     design:
       columns: '1'
 
-  # - block: collection
-  #   content:
-  #     title: Research Interests
-  #     text: ""
-  #     filters:
-  #       folders:
-  #         - project
+  - block: collection
+    content:
+      title: Research Interests
+      text: ""
+      filters:
+        folders:
+          - project
       
-  #     design:
-  #     view: list
-  #     columns: '1'      
+      design:
+      view: list
+      columns: '1'      
 
   - block: collection
     content:
