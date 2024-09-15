@@ -3,8 +3,7 @@ title: Tour
 date: 2022-10-24
 
 type: landing
-
-Free-electron optics
+title: Free-electron optics
 
 sections:
   - block: hero
