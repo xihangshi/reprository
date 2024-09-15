@@ -90,7 +90,20 @@ sections:
       text: under construction
     design:
       columns: '1'
-  
+
+  # - block: collection
+  #   content:
+  #     title: Latest publications
+  #     text: ""
+  #     count: 5
+  #     filters:
+  #       folders:
+  #         - publication
+  #       publication_type: 'article-journal'
+  #     design:
+  #     view: list
+  #     columns: '1'      
+
   - block: collection
     content:
       title: Latest publications

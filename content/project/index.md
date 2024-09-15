@@ -29,6 +29,5 @@ sections:
    content:
    title: Free-electron QED
    text: 
-   image: Research_dir.jpg
       
 ---
