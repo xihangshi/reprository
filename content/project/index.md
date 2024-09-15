@@ -11,7 +11,7 @@ sections:
     content:
       title: Research Interests
       image:        
-        filename: Research_dir.jpg
+        filename: Picture1.jpg
       text: |
         My research focuses on free-electron raidation mediated by bulk and nanophotonic materials. In particular, we strive to deepen our unerstanding of quantum science in the field, and propose new applications based on the quantum materials and quantum technologies.
         check our the recent pages on [Free-Electron Quantum Optics](/tag/free-electron-quantum-optics/)
