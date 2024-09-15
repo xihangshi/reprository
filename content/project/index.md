@@ -26,8 +26,8 @@ sections:
     #     text_color_light: true
 
    - block: markdown
-   content:
-   title: Free-electron QED
-   text: 
+      content:
+      title: Free-electron QED
+      text: 
       
 ---

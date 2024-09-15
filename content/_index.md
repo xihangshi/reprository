@@ -93,13 +93,12 @@ sections:
 
   # - block: collection
   #   content:
-  #     title: Latest publications
+  #     title: Research Interests
   #     text: ""
-  #     count: 5
   #     filters:
   #       folders:
-  #         - publication
-  #       publication_type: 'article-journal'
+  #         - project
+      
   #     design:
   #     view: list
   #     columns: '1'      
