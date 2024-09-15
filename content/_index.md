@@ -88,8 +88,8 @@ sections:
       title: Research Interests
       subtitle: "[Free-electron optics](/project/)"
       text: |
-      1. Free electron QED
-      2. Tunable ultrashort wavelength sources driven by free electrons
+      1. Free electron QED <br>
+      2. Tunable ultrashort wavelength sources driven by free electrons <br>
       3. Quantum light driven by free electrons
     design:
       columns: '1'
