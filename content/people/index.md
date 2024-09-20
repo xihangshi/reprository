@@ -29,7 +29,6 @@ sections:
       title: Working experience
       subtitle:
       text: |
-        | Left Column  | Center Column   | Right Column |
         |--------------|-----------------|--------------|
         | Content A    | Content B       | Content C    |
         | Data 1       | Data 2          | Data 3       |
