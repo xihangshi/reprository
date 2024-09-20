@@ -30,7 +30,8 @@ sections:
       subtitle:
       text: |
         | | |
-        | 2018 – 2023        |Postdoc Fellow, Solid State Institute & Electrical and Computer Engineering Department|
+        |--------------|----------------------|
+        | 2018 – 2023 | Postdoc Fellow, Solid State Institute & Electrical and Computer Engineering Department |
 
              
     design:
