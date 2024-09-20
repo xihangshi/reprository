@@ -41,13 +41,10 @@ sections:
       title: Oral Presentations at International Conferences
       subtitle:
       text: |
-        | | |
-        |--------------|---------------|
-        |May, 2024|“Electron-Heralded Quantum X-ray Source”, CLEO, United States|
-        | 2018 – 2023 | Postdoc Fellow, Solid State Institute & Electrical and Computer Engineering Department, Technion - Israel Institute of Technology, Israel. <br> supervised by Prof. Ido Kaminer (Adolph Lomb Medal Recipient) |
-        |2017–2018|Technology Director, Linbou Nearfield Technology Co., Ltd.(start-up), China|
-        |2016–2017|Project Officer, Physics & Applied Physics, Nanyang Technological University, Singapore|
-
+        | | | |
+        |--------------|---------------|--|
+        |May, 2024|“Electron-Heralded Quantum X-ray Source”, CLEO|United States|
+        
         
 
              
