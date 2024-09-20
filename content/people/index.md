@@ -38,13 +38,13 @@ sections:
 
   - block: markdown
     content:
-      title: Oral Presentations at International Conferences
+      title: International Conferences
       subtitle:
       text: |
         | | | |
         |--------------|---------------|--|
-        |May, 2024|“Electron-Heralded Quantum X-ray Source”, CLEO|United States|
-        |Dec., 2023|“Tunable X-ray Radiation from Quantum Free-electron Radiation”, 5th Sino-German Symposium on Advanced   Electron Microscopy and Instrumentation (**Invited**)|China|
+        |May, 2024|Electron-Heralded Quantum X-ray Source, *CLEO*|United States|
+        |Dec., 2023|Tunable X-ray Radiation from Quantum Free-electron Radiation, *5th Sino-German Symposium on Advanced   Electron Microscopy and Instrumentation* (**Invited**)|China|
         
 
              
