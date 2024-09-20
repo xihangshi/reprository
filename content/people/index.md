@@ -42,7 +42,7 @@ sections:
       subtitle:
       text: |
         | | |
-        |--------------|---------------|
+        |--------------|:---------------:|
         |2020-present|Referee for APL Photonics, APL, PRE|
         |2023|Scientific Committee of NANOP 2023|
   
@@ -52,7 +52,7 @@ sections:
       subtitle:
       text: |
         | | |
-        |--------------|---------------|
+        |--------------|:---------------:|
         |2022|Postdoctoral Fellowships in Quantum, Technion|
         |2018|PBC scholarship program for outstanding post-doctoral students, Council for Higher Education of Israel (55 person each year nationwide)|
         |2017|Overseas High-Level Professional in Shenzhen (C)|
