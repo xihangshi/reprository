@@ -29,11 +29,12 @@ sections:
       title: Working experience
       subtitle:
       text: |
-        | Time      | Role
-        | 2023–present |  Visiting Lecturer, Solid State Institute & Electrical and Computer Engineering Department, Technion - Israel Institute of Technology, Israel
-        <br>
-            2018-2024 -- xxx
+        | time          | role                    |
+        |---------------|-------------------------|
+        | 2023–present  | Visiting Lecturer, Solid State Institute & Electrical and Computer Engineering Department, Technion - Israel Institute of Technology, Israel  |
+        
     design:
       columns: '1'
+
 
 ---
