@@ -26,7 +26,7 @@ sections:
   - block: markdown
     id: free_electron_Xray_optics
     content:
-      title: Free-electron X-ray Optics
+      title: Free-electron X-ray optics
       image:        
         filename: 
       text: |
