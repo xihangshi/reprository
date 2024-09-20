@@ -21,8 +21,6 @@ organizations:
 bio: My research is about free-electron radiation, especailly the quantum science behind it. I focuse on exploring 
 new phenomenona with the advances in quantum materials and quantum technologies. 
 
-
-
 interests:
   - Quantum Optics
   - Free-electron Radiation
@@ -77,6 +75,8 @@ user_groups:
   - Principal Investigators 
 ---
 
-Xihang Shi is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xihang Shi is a PostDoc in Prof. Ido Kaminer's group in Technion, Israel. 
+
+professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
