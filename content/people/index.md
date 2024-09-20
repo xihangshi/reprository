@@ -38,14 +38,24 @@ sections:
 
   - block: markdown
     content:
-      title: International Conferences
+      title: Academic Service
       subtitle:
       text: |
-        | | | |
-        |--------------|---------------|--|
-        |May, 2024|Electron-Heralded Quantum X-ray Source, *CLEO*|United States|
-        |Dec., 2023|Tunable X-ray Radiation from Quantum Free-electron Radiation, *5th Sino-German Symposium on Advanced   Electron Microscopy and Instrumentation* (**Invited**)|China|
-        
+        | | |
+        |--------------|---------------|
+        |2020-present|Referee for APL Photonics, APL, PRE|
+        |2023|Scientific Committee of NANOP 2023|
+  
+  - block: markdown
+    content:
+      title: Awards
+      subtitle:
+      text: |
+        | | |
+        |--------------|---------------|
+        |2022|Postdoctoral Fellowships in Quantum, Technion|
+        |2018|PBC scholarship program for outstanding post-doctoral students, Council for Higher Education of Israel (55 person each year nationwide)|
+        |2017|Overseas High-Level Professional in Shenzhen (C)|
 
              
     design:
