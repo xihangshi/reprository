@@ -30,7 +30,6 @@ sections:
       subtitle:
       text: |
         | | |
-        |--------------|----------------------|
         | 2018 – 2023 | Postdoc Fellow, Solid State Institute & Electrical and Computer Engineering Department, Technion - Israel Institute of Technology, Israel. <br> supervised by Prof. Ido Kaminer (Adolph Lomb Medal Recipient) |
 
              
