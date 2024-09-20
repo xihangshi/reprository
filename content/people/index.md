@@ -30,7 +30,7 @@ sections:
       subtitle:
       text: |
         <br>
-            2018-2024 -- xxx
+            2023–present -- Visiting Lecturer, Solid State Institute & Electrical and Computer Engineering Department,      Technion - Israel Institute of Technology, Israel
         <br>
             2018-2024 -- xxx
     design:

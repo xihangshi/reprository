@@ -75,8 +75,4 @@ user_groups:
   - Principal Investigators 
 ---
 
-Xihang Shi is a PostDoc in Prof. Ido Kaminer's group in Technion, Israel. 
-
-professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Xihang Shi is a PostDoc under Prof. Ido Kaminer's group in Technion, Israel. His research is dedicated to advancing the field of free-electron radiation, using free electrons to generate radiation in spectral regions that are challenging to access with traditional optical methods, such as highly confined plasmons and X-rays. His research covers the entire spectrum from the fundamental all the way to the very applied. In particular, he strive to deepen our understanding of quantum science in this field and make use of it.
