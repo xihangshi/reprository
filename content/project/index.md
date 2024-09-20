@@ -14,23 +14,19 @@ sections:
         filename: Picture1.jpg
       text: |
         My research focuses on free-electron raidation mediated by bulk and nanophotonic materials. In particular, we strive to deepen our unerstanding of quantum science in the field, and propose new applications based on the quantum materials and quantum technologies.
-        check our the recent pages on [Free-Electron Quantum Optics](/tag/free-electron-quantum-optics/)
-        ![Cute Cat](Research_dir.jpg)
-      
-      
 
-  - block: hero
-    id: project_free_ele_optics
+  - block: markdown
+    id: 
     content:
-      title: "<span style='font-size: 48px;'> Free-electron optics </span>"
+      title: First principle investigation of free-electron radiation
       image:        
-        filename: Research_dir.jpg
-      # cta:
-      #   label: Get Started
-      #   url: https://wowchemy.com/templates/ 
-
+        filename: 
       text: |
         My research focuses on free-electron raidation mediated by bulk and nanophotonic materials. In particular, we strive to deepen our unerstanding of quantum science in the field, and propose new applications based on the quantum materials and quantum technologies.
+        check our the recent pages on [Free-Electron Quantum Optics](/tag/free-electron-quantum-optics/)
+        ![Cute Cat](Research_dir.jpg)      
+      
+      
     # design:
     #   # Choose an optional background color, gradient, image, or video
     #   background:
