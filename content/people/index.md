@@ -29,6 +29,7 @@ sections:
       title: Working experience
       subtitle:
       text: |
+        | | |
         |--------------|-----------------|
         | Content A    | Content B       |
         | 2018 – 2023        | Data 2          |
