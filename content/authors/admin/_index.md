@@ -22,10 +22,9 @@ bio: My research is about free-electron radiation, especailly the quantum scienc
 new phenomenona with the advances in quantum materials and quantum technologies. 
 
 interests:
-  - Quantum Optics
-  - "Free-electron Radiation"
-  - "X-rays"
-  - "Nanophotonics & Plasmonics"
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   courses:
