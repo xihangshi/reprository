@@ -19,12 +19,13 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research is about free-electron radiation, especailly the quantum science behind it. I focuse on exploring 
-new phenomenona with the advances in quantum materials and quantum technologies. 
+     new phenomenona with the advances in quantum materials and quantum technologies. 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum Optics
+  - "Free-electron Radiation"
+  - "X-rays"
+  - "Nanophotonics & Plasmonics"
 
 education:
   courses:
