@@ -29,10 +29,12 @@ sections:
       title: Working experience
       subtitle:
       text: |
-        |-----------------|--------------------------------------------------------------------------------------|
-        | 2023 – present  | Visiting Lecturer, Solid State Institute & Electrical and Computer Engineering Department,   Technion - Israel Institute of Technology, Israel                                                        |
-        | 2018 – 2023     | Postdoc Fellow, Solid State Institute & Electrical and Computer Engineering Department, Technion - Israel Institute of Technology, Israel, supervised by Prof. Ido Kaminer (Adolph Lomb Medal Recipient)  |
-        
+        | Left Column  | Center Column   | Right Column |
+        |--------------|-----------------|--------------|
+        | Content A    | Content B       | Content C    |
+        | Data 1       | Data 2          | Data 3       |
+
+             
     design:
       columns: '1'
 
