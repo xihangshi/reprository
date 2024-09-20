@@ -23,9 +23,9 @@ new phenomenona with the advances in quantum materials and quantum technologies.
 
 interests:
   - Quantum Optics
-  - Free-electron Radiation
-  - X-rays
-  - Nanophotonics & Plasmonics
+  - "Free-electron Radiation"
+  - "X-rays"
+  - "Nanophotonics & Plasmonics"
 
 education:
   courses:
