@@ -28,7 +28,7 @@ sections:
 
 
   - block: markdown
-    id: 
+    id: free_electron_Xray_optics
     content:
       title: Free-electron X-ray Optics
       image:        
