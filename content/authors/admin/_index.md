@@ -1,68 +1,45 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Xihang Shi
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Xihang  
+last_name: Shi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PostDoc in Solid State Institute and the ECE Department, Technion, Israel
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Technion – Israel Institute of Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research is about free-electron radiation, especailly the quantum science behind it. I focuse on exploring 
+new phenomenona with the advances in quantum materials and quantum technologies. 
 
 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum Optics
+  - Free-electron Radiation
+  - X-rays
+  - Nanophotonics & Plasmonics
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Physics
+      institution:  Nanyang Technological University, Singapore
+      year: 2017
+    - course: Postgraduate in Theoretical Physics
+      institution: Chinese Academy of Sciences, China
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+    - course: BSc in Physics
+      institution:  Sun Yat-sen University, China
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -71,16 +48,16 @@ work:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:your-email@example.com
+    link: mailto:xihangshi@technion.ac.il
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=UgMWkY0AAAAJ&hl=en
   - icon: orcid
     icon_pack: ai
-    link: https://github.com/gcushen
+    link: https://orcid.org/0000-0001-5054-9438
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/xihangshi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -100,6 +77,6 @@ user_groups:
   - Principal Investigators 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xihang Shi is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
