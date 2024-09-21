@@ -34,8 +34,6 @@ tags:
 - Free-electron X-ray Optics
   
 links:
-- name: DOI
-  url: https://doi.org/10.1364/OPTICA.472462
 - name: PDF
   url: https://opg.optica.org/optica/viewmedia.cfm?uri=optica-10-2-292&seq=0
 - name: Supplement
