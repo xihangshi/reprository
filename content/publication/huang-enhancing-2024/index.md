@@ -32,9 +32,7 @@ abstract: Van der Waals (vdW) heterostructures have attracted much attention due
   our study demonstrates that by reducing the height of the Schottky barrier formed
   in the vdW heterostructures, the thermionic cooling performance can be enhanced.
   Our findings pave the way for the development of high-power X-ray tubes.
-tags:
-- Applied Physics (physics.app-ph)
-- 'FOS: Physical sciences'
+
 links:
 
 ---
