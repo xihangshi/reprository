@@ -31,10 +31,10 @@ sections:
       text: |
         | | |
         |--------------|---------------|
-        |2023 – present|Visiting Lecturer, Solid State Institute & Electrical and Computer Engineering Department,   Technion - Israel Institute of Technology, Israel|
-        | 2018 – 2023 | Postdoc Fellow, Solid State Institute & Electrical and Computer Engineering Department, Technion - Israel Institute of Technology, Israel. <br> supervised by Prof. Ido Kaminer (Adolph Lomb Medal Recipient) |
+        |2023 – present|Visiting Lecturer, Solid State Institute & Electrical and Computer Engineering Department,   [Technion - Israel Institute of Technology](https://www.technion.ac.il/en/home-2/), Israel|
+        | 2018 – 2023 | Postdoc Fellow, Solid State Institute & Electrical and Computer Engineering Department, [Technion - Israel Institute of Technology, Israel](https://www.technion.ac.il/en/home-2/). <br> supervised by Prof. Ido Kaminer (Adolph Lomb Medal Recipient) |
         |2017–2018|Technology Director, Linbou Nearfield Technology Co., Ltd.(start-up), China|
-        |2016–2017|Project Officer, Physics & Applied Physics, Nanyang Technological University, Singapore|
+        |2016–2017|Project Officer, Physics & Applied Physics, [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore|
 
   - block: markdown
     content:
