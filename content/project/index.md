@@ -9,7 +9,7 @@ sections:
   - block: markdown
     id: research_interests
     content:
-      title: Research Interests
+      title: "<h2 style='font-size: 36px;'>Research Interests</h2>"
       text: |
         My research focuses on free-electron raidation mediated by bulk and nanophotonic materials. In particular, we strive to deepen our unerstanding of quantum science in the field, and propose new applications based on the quantum materials and quantum technologies. ![roadmap](Research_dir.jpg) 
 
