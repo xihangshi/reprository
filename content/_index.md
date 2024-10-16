@@ -90,7 +90,7 @@ sections:
       text: |
          1. [First principle investigation of free-electron quantum radiation](/project/#first_principle_investigation) <br>
          2. [Free electron X-ray Optics](/project/#free_electron_Xray_optics) <br>
-         3. [Quantum light driven by free electrons]
+         3. [Quantum light driven by free electrons](/project/#quantum_light_source)
     design:
       columns: '1'
 
