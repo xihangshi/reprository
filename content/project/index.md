@@ -11,12 +11,12 @@ sections:
     content:
       title: "<h2 style='font-size: 24px;'>Research Interests</h2>"
       text: |
-        My research focuses on free-electron raidation mediated by bulk and nanophotonic materials. In particular, we strive to deepen our unerstanding of quantum science in the field, and propose new applications based on the quantum materials and quantum technologies. ![roadmap](Research_dir.jpg) 
+        My research focuses on free-electron-driven nanophotonics, including free-electron radiation and the interaction of free electrons with the near-field of light. I aim to develop mechanisms to enhance the coupling strength between free electrons and light, and deepen our understanding of quantum phenomena in this field. Beyond fundamental investigations, I strive to propose new applications that leverage advances in quantum materials and quantum technologies. ![roadmap](Research_dir.jpg) 
 
   - block: markdown
     id: first_principle_investigation
     content:
-      title: First principle investigation of free-electron quantum radiation
+      title: "<h2 style='font-size: 24px;'>First principle investigation of free-electron quantum radiation</h2>"
       image:        
         filename: 
       text: |

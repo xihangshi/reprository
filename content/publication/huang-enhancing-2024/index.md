@@ -1,7 +1,7 @@
 ---
 title: Enhancing heat transfer in X-ray tube by van der heterostructures-based thermionic
   emission
-item_number: "*"
+item_number: 📝
 authors:
 - Sunchao Huang
 - Suguo Chen
@@ -16,7 +16,7 @@ authors:
 date: '2024-10-16'
 publishDate: '2024-10-16T16:38:13.113110Z'
 publication_types:
-- manuscript
+- article-journal
 publication: 'arXiv'
 pages: 2410.02153
 doi: 10.48550/ARXIV.2410.02153
