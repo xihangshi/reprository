@@ -45,7 +45,7 @@ sections:
         |--------------|---------------|
         |2025|[Section Organizer for PIERS 2025](https://abdb2025.piers.org/session.html?sid=S060)|
         |2020-present|Referee for APL Photonics, APL, PRE|
-        |2023|Scientific Committee of NANOP 2023|
+        |2023|[Scientific Committee of NANOP 2023](https://premc.org/conferences/nanop-nanophotonics-micro-nano-optics/committee/)|
   
   - block: markdown
     content:
