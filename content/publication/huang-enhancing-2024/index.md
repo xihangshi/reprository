@@ -1,22 +1,24 @@
 ---
 title: Enhancing heat transfer in X-ray tube by van der heterostructures-based thermionic
   emission
+item_number: *
 authors:
 - Sunchao Huang
 - Suguo Chen
 - Yue Wang
-- Xihang Shi
+- **Xihang Shi**
 - Xiaoqiuyan Zhang
 - Min Hu
 - Ping Zhang
 - Shaomeng Wang
 - Chao Zhang
 - Yubin Gong
-date: '2024-01-01'
+date: '2024-10-16'
 publishDate: '2024-10-16T16:38:13.113110Z'
 publication_types:
 - manuscript
-publication: '*arXiv*'
+publication: 'arXiv'
+pages: 2410.02153
 doi: 10.48550/ARXIV.2410.02153
 abstract: Van der Waals (vdW) heterostructures have attracted much attention due to
   their distinctive optical, electrical, and thermal properties, demonstrating promising
@@ -34,6 +36,5 @@ tags:
 - Applied Physics (physics.app-ph)
 - 'FOS: Physical sciences'
 links:
-- name: URL
-  url: https://arxiv.org/abs/2410.02153
+
 ---
