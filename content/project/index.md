@@ -25,7 +25,6 @@ sections:
   
   - block: markdown
     id: free_electron_Xray_optics
-    style: "margin-top: 0px;" 
     content:
       title: "<h2 style='font-size: 26px;'>Free-electron X-ray optics</h2>"
       image:        
@@ -34,12 +33,16 @@ sections:
         Control over light waves in the visible and infrared regimes is ubiquitous in a vast range of applications, and typically relies on widely available optical components. However, analogous optical elements for X-rays are usually inefficient and challenging to fabricate. We propose [generating shaped X-rays](/tag/free-electron-x-ray-optics/) directly from free electrons interacting with nanomaterials. X-ray focused beam and Airy beams have proposed, mediated by van der Waals heterostructures. Looking forward, we aim to develop novel schemes that help bypass the noted limitations of current X-ray optics technology. ![roadmap](causticXrays.jpg)
 
   - block: markdown
-    id: 
+    id: quantum_light_source
     content:
-      title: Quantum light source driven by free electrons
+      title: "<h2 style='font-size: 26px;'>Quantum light source driven by free electrons</h2>"
       image:        
         filename: 
-      text: | 
+      text: |
+        The current technology for generating quantum light mainly relies on the nonlinearity of materials, which limits the available spectrum of quantum light states. Free electrons can also act as nonlinear media during their interaction with light, such as in Compton scattering and free-electron radiation. Recent investigations of free-electron radiation treat this process as the scattering of entangled electron-photon pairs, giving rise to a new field called free-electron quantum optics. In this field, quantum light can be heralded by post-selecting the electron, for example, in energy space. One significant advantage of this approach is the ability to generate quantum light in regimes, such as the X-ray regime, that are inaccessible or challenging for traditional methods.![roadmap](quantum_state.jpg)
+        
+
+
       
     # design:
     #   # Choose an optional background color, gradient, image, or video
