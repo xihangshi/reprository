@@ -39,7 +39,7 @@ sections:
       image:        
         filename: 
       text: |
-        The current technology for generating quantum light mainly relies on the nonlinearity of materials, which limits the available spectrum of quantum light states. Free electrons can also act as nonlinear media during their interaction with light, such as in Compton scattering and free-electron radiation. Recent investigations of free-electron radiation treat this process as the scattering of entangled electron-photon pairs, giving rise to a new field called free-electron quantum optics. In this field, quantum light can be heralded by post-selecting the electron, for example, in energy space. One significant advantage of this approach is the ability to generate quantum light in regimes, such as the X-ray regime, that are inaccessible or challenging for traditional methods.![roadmap](quantum_state.jpg)
+        The current technology for generating quantum light mainly relies on the nonlinearity of materials, which limits the available spectrum of quantum light states. Free electrons can also act as nonlinear media during their interaction with light, such as in Compton scattering and free-electron radiation. Recent investigations of free-electron radiation treat this process as the scattering of entangled electron-photon pairs, giving rise to a new field called free-electron quantum optics. In this field, quantum light can be heralded by post-selecting the electron, for example, in energy space. One significant advantage of this approach is the ability to generate quantum light in regimes, such as the X-ray regime, that are inaccessible or challenging for traditional methods.![roadmap](quantum_state.webp)
         
 
 
