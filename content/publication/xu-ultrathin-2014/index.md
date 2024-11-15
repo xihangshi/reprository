@@ -25,6 +25,6 @@ abstract: We report the first experimental realization of a three-dimensional th
   can find applications in novel thermal devices in the three-dimensional physical
   space.
 links:
-- name: URL
-  url: https://link.aps.org/doi/10.1103/PhysRevLett.112.054301
+- name: Physics Viewpoint
+  url: https://physics.aps.org/articles/v7/12
 ---
