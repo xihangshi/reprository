@@ -11,14 +11,14 @@ authors:
 - Yu Luo
 - Baile Zhang
 date: '2016-12-01'
-publishDate: '2024-11-15T02:52:27.795379Z'
+publishDate: '2016-12-15T02:52:27.795379Z'
 publication_types:
 - article-journal
 publication: 'Physical Review B'
 volume: 94
 pages: 220304(R)
 doi: 10.1103/PhysRevB.94.220304
-abstract: © 2016 American Physical Society. Wave diffraction is fundamentally difficult
+abstract: Wave diffraction is fundamentally difficult
   to overcome in the routing and interconnection of photonic signals. Although the
   phenomenon of reflectionless transport through sharp corners in a routing path has
   been realized in many previous demonstrations, wave diffraction does not allow them
