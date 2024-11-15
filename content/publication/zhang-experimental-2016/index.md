@@ -1,19 +1,22 @@
 ---
 title: Experimental demonstration of broadband reflectionless diffraction-free electromagnetic
   wave routing
+item_number: 11
 authors:
 - Youming Zhang
 - Zhen Gao
 - Fei Gao
-- Xihang Shi
+- "**Xihang Shi**"
 - Hongyi Xu
 - Yu Luo
 - Baile Zhang
-date: '2016-01-01'
+date: '2016-12-01'
 publishDate: '2024-11-15T02:52:27.795379Z'
 publication_types:
 - article-journal
-publication: '*Physical Review B*'
+publication: 'Physical Review B'
+volume: 94
+pages: 220304(R)
 doi: 10.1103/PhysRevB.94.220304
 abstract: © 2016 American Physical Society. Wave diffraction is fundamentally difficult
   to overcome in the routing and interconnection of photonic signals. Although the
