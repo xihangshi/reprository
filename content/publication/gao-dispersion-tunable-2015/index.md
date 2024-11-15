@@ -4,7 +4,7 @@ item_number: 2
 authors:
 - Fei Gao
 - Zhen Gao
-- Xihang Shi
+- "**Xihang Shi**"
 - Zhaoju Yang
 - Xiao Lin
 - Baile Zhang
@@ -16,7 +16,7 @@ publication: 'Optics Express'
 volume: 23 
 pages: 6896-6902
 doi: 10.1364/OE.23.006896
-abstract: © 2015 Optical Society of America. We propose and experimentally demonstrate
+abstract: We propose and experimentally demonstrate
   an approach to efficiently tune the dispersion of a designer-plasmonic resonator,
   or a plasmonic 'meta-atom', by incorporating an extra ground plane underneath. We
   demonstrate that this ground plane is able to enhance resonances, and the enhancing
