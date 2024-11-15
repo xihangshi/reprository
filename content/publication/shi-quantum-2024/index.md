@@ -1,5 +1,5 @@
 ---
-title: Quantum Nanophotonics with Energetic Particles:X-rays and Free Electrons
+title: Quantum Nanophotonics with Energetic Particles: X-rays and Free Electrons
 item_number: 📝*
 authors:
 - "**Xihang Shi<sup>&dagger;</sup>**"
