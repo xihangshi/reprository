@@ -1,7 +1,7 @@
 ---
 title: Synthetic-gauge-field-induced Dirac semimetal state in an acoustic resonator
   system
-item_number: 10
+item_number: 11
 authors:
 - Zhaoju Yang
 - Fei Gao
