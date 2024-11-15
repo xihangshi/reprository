@@ -2,8 +2,8 @@
 title: Quantum Nanophotonics with Energetic Particles:X-rays and Free Electrons
 item_number: 📝*
 authors:
-- "**Xihang Shi**"
-- Wen Wei Lee
+- "**Xihang Shi<sup>&dagger;</sup>**"
+- "Wen Wei Lee<sup>&dagger;</sup>"
 - Aviv Karnieli
 - Leon Merten Lohse
 - Alexey Gorlach
