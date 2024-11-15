@@ -1,0 +1,32 @@
+---
+title: Nano-optical theory of planar x-ray waveguides
+authors:
+- Leon M. Lohse
+- Petar Andrejić
+date: '2024-03-01'
+publishDate: '2024-11-15T01:34:49.838379Z'
+publication_types:
+- article-journal
+publication: '*Optics Express*'
+doi: 10.1364/OE.504206
+abstract: X-ray waveguides are routinely used at synchrotron light sources in imaging
+  setups and as a platform for experiments with quantum emitters, providing nanometer-sized
+  confinement – even x-ray optics on a chip has been showcased. X-ray waveguides are
+  weakly guiding and experience significant material absorption, such that the established
+  waveguide theory is not immediately applicable. Here, a general self-contained nano-optical
+  theory of planar waveguides is derived, which is appropriate for hard x-ray energies.
+  Solutions of the electromagnetic fields and its Green’s functions are derived in
+  detail. Asymptotic expansions into resonant and non-resonant modes are derived,
+  which are particularly useful in the presence of strong material absorption. A method
+  to reliably find the resonant modes of x-ray waveguide structures is presented.
+  Based on the general theory, certain common experimental geometries, namely evanescent
+  coupling in grazing-incidence, front-coupling in forward-incidence and radiation
+  from buried emitters, are discussed in more detail. Complementing the analytic discussion,
+  numerical tools are provided and applied to quantitatively extract the main figures
+  of merit. The theory provides an analytic foundation for the interpretation of past
+  and future experiments and, combined with the numerical tools, will facilitate the
+  computer-aided design of x-ray waveguides.
+links:
+- name: URL
+  url: https://opg.optica.org/abstract.cfm?URI=oe-32-6-9518
+---

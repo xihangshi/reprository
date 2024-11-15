@@ -1,0 +1,31 @@
+---
+title: 11 nm hard X-ray focus from a large-aperture multilayer Laue lens
+authors:
+- Xiaojing Huang
+- Hanfei Yan
+- Evgeny Nazaretski
+- Raymond Conley
+- Nathalie Bouet
+- Juan Zhou
+- Kenneth Lauer
+- Li Li
+- Daejin Eom
+- Daniel Legnini
+- Ross Harder
+- Ian K. Robinson
+- Yong S. Chu
+date: '2013-01-01'
+publishDate: '2024-11-15T01:34:53.178509Z'
+publication_types:
+- article-journal
+publication: '*Scientific Reports*'
+doi: 10.1038/srep03562
+abstract: The focusing performance of a multilayer Laue lens (MLL) with 43.4μm aperture,
+  4nm finest zone width and 4.2mm focal length at 12keV was characterized with X-rays
+  using ptychography method. The reconstructed probe shows a full-width-at-half-maximum
+  (FWHM) peak size of 11.2nm. The obtained X-ray wavefront shows excellent agreement
+  with the dynamical calculations, exhibiting aberrations less than 0.3 wave period,
+  which ensures the MLL capable of producing a diffraction-limited focus while offering
+  a sufficient working distance. This achievement opens up opportunities of incorporating
+  a variety of in-situ experiments into ultra high-resolution X-ray microscopy studies.
+---

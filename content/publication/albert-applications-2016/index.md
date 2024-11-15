@@ -1,0 +1,31 @@
+---
+title: Applications of laser wakefield accelerator-based light sources
+authors:
+- Félicie Albert
+- Alec G R Thomas
+date: '2016-01-01'
+publishDate: '2024-11-15T01:34:51.338026Z'
+publication_types:
+- article-journal
+publication: '*Plasma Physics and Controlled Fusion*'
+doi: 10.1088/0741-3335/58/10/103001
+abstract: 'Laser-wakefield accelerators (LWFAs) were proposed more than three decades
+  ago, and while they promise to deliver compact, high energy particle accelerators,
+  they will also provide the scientific community with novel light sources. In a LWFA,
+  where an intense laser pulse focused onto a plasma forms an electromagnetic wave
+  in its wake, electrons can be trapped and are now routinely accelerated to GeV energies.
+  From terahertz radiation to gamma-rays, this article reviews light sources from
+  relativistic electrons produced by LWFAs, and discusses their potential applications.
+  Betatron motion, Compton scattering and undulators respectively produce x-rays or
+  gamma-rays by oscillating relativistic electrons in the wakefield behind the laser
+  pulse, a counter-propagating laser field, or a magnetic undulator. Other LWFA-based
+  light sources include bremsstrahlung and terahertz radiation. We first evaluate
+  the performance of each of these light sources, and compare them with more conventional
+  approaches, including radio frequency accelerators or other laser-driven sources.
+  We have then identified applications, which we discuss in details, in a broad range
+  of fields: medical and biological applications, military, defense and industrial
+  applications, and condensed matter and high energy density science.'
+links:
+- name: URL
+  url: http://dx.doi.org/10.1088/0741-3335/58/10/103001
+---

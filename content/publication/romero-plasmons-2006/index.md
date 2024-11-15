@@ -1,0 +1,43 @@
+---
+title: 'Plasmons in nearly touching metallic nanoparticles: singular response in the
+  limit of touching dimers'
+authors:
+- Isabel Romero
+- Javier Aizpurua
+- Garnett W Bryant
+- F J García de Abajo
+date: '2006-01-01'
+publishDate: '2024-11-15T01:34:50.766502Z'
+publication_types:
+- article-journal
+publication: '*Optics Express*'
+doi: 10.1364/OE.14.009988
+abstract: The response of gold nanoparticle dimers is studied theoretically near and
+  beyond the limit where the particles are touching. As the particles approach each
+  other, a dominant dipole feature is observed that is pushed into the infrared due
+  to interparticle coupling and that is associated with a large pileup of induced
+  charge in the interparticle gap. The redshift becomes singular as the particle separation
+  decreases. The response weakens for very small separation when the coupling across
+  the interparticle gap becomes so strong that dipolar oscillations across the pair
+  are inhibited. Lower-wavelength, higher-order modes show a similar separation dependence
+  in nearly touching dimers. After touching, singular behavior is observed through
+  the emergence of a new infrared absorption peak, also accompanied by huge charge
+  pileup at the interparticle junction, if initial interparticle contact is made at
+  a single point. This new mode is distinctly different from the lowest mode of the
+  separated dimer. When the junction is made by contact between flat surfaces, charge
+  at the junction is neutralized and mode evolution is continuous through contact.
+  The calculated singular response explains recent experiments on metallic nanoparticle
+  dimers and is relevant in the design of nanoparticle-based sensors and plasmon circuits.
+tags:
+- Electric fields
+- Elastic scattering
+- Interference
+- Light scattering
+- Mie resonances
+- Particles
+- Surface enhanced Raman spectroscopy
+- Surface plasmons
+links:
+- name: URL
+  url: http://www.opticsexpress.org/abstract.cfm?URI=oe-14-21-9988
+---

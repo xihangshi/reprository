@@ -1,0 +1,271 @@
+---
+title: Review of particle physics
+authors:
+- P. A. Zyla
+- R. M. Barnett
+- J. Beringer
+- O. Dahl
+- D. A. Dwyer
+- D. E. Groom
+- C. J. Lin
+- K. S. Lugovsky
+- E. Pianori
+- D. J. Robinson
+- C. G. Wohl
+- W. M. Yao
+- K. Agashe
+- G. Aielli
+- B. C. Allanach
+- C. Amsler
+- M. Antonelli
+- E. C. Aschenauer
+- D. M. Asner
+- H. Baer
+- Sw Banerjee
+- L. Baudis
+- C. W. Bauer
+- J. J. Beatty
+- V. I. Belousov
+- S. Bethke
+- A. Bettini
+- O. Biebel
+- K. M. Black
+- E. Blucher
+- O. Buchmuller
+- V. Burkert
+- M. A. Bychkov
+- R. N. Cahn
+- M. Carena
+- A. Ceccucci
+- A. Cerri
+- D. Chakraborty
+- R. Sekhar Chivukula
+- G. Cowan
+- G. D'Ambrosio
+- T. Damour
+- D. de Florian
+- A. de Gouvêa
+- T. DeGrand
+- P. de Jong
+- G. Dissertori
+- B. A. Dobrescu
+- M. D'Onofrio
+- M. Doser
+- M. Drees
+- H. K. Dreiner
+- P. Eerola
+- U. Egede
+- S. Eidelman
+- J. Ellis
+- J. Erler
+- V. V. Ezhela
+- W. Fetscher
+- B. D. Fields
+- B. Foster
+- A. Freitas
+- H. Gallagher
+- L. Garren
+- H. J. Gerber
+- G. Gerbier
+- T. Gershon
+- Y. Gershtein
+- T. Gherghetta
+- A. A. Godizov
+- M. C. Gonzalez-Garcia
+- M. Goodman
+- C. Grab
+- A. V. Gritsan
+- C. Grojean
+- M. Grünewald
+- A. Gurtu
+- T. Gutsche
+- H. E. Haber
+- C. Hanhart
+- S. Hashimoto
+- Y. Hayato
+- A. Hebecker
+- S. Heinemeyer
+- B. Heltsley
+- J. J. Hernández-Rey
+- K. Hikasa
+- J. Hisano
+- A. Höcker
+- J. Holder
+- A. Holtkamp
+- J. Huston
+- T. Hyodo
+- K. F. Johnson
+- M. Kado
+- M. Karliner
+- U. F. Katz
+- M. Kenzie
+- V. A. Khoze
+- S. R. Klein
+- E. Klempt
+- R. V. Kowalewski
+- F. Krauss
+- M. Kreps
+- B. Krusche
+- Y. Kwon
+- O. Lahav
+- J. Laiho
+- L. P. Lellouch
+- J. Lesgourgues
+- A. R. Liddle
+- Z. Ligeti
+- C. Lippmann
+- T. M. Liss
+- L. Littenberg
+- C. Lourenço
+- S. B. Lugovsky
+- A. Lusiani
+- Y. Makida
+- F. Maltoni
+- T. Mannel
+- A. V. Manohar
+- W. J. Marciano
+- A. Masoni
+- J. Matthews
+- U. G. Meißner
+- M. Mikhasenko
+- D. J. Miller
+- D. Milstead
+- R. E. Mitchell
+- K. Mönig
+- P. Molaro
+- F. Moortgat
+- M. Moskovic
+- K. Nakamura
+- M. Narain
+- P. Nason
+- S. Navas
+- M. Neubert
+- P. Nevski
+- Y. Nir
+- K. A. Olive
+- C. Patrignani
+- J. A. Peacock
+- S. T. Petcov
+- V. A. Petrov
+- A. Pich
+- A. Piepke
+- A. Pomarol
+- S. Profumo
+- A. Quadt
+- K. Rabbertz
+- J. Rademacker
+- G. Raffelt
+- H. Ramani
+- M. Ramsey-Musolf
+- B. N. Ratcliff
+- P. Richardson
+- A. Ringwald
+- S. Roesler
+- S. Rolli
+- A. Romaniouk
+- L. J. Rosenberg
+- J. L. Rosner
+- G. Rybka
+- M. Ryskin
+- R. A. Ryutin
+- Y. Sakai
+- G. P. Salam
+- S. Sarkar
+- F. Sauli
+- O. Schneider
+- K. Scholberg
+- A. J. Schwartz
+- J. Schwiening
+- D. Scott
+- V. Sharma
+- S. R. Sharpe
+- T. Shutt
+- M. Silari
+- T. Sjöstrand
+- P. Skands
+- T. Skwarnicki
+- G. F. Smoot
+- A. Soffer
+- M. S. Sozzi
+- S. Spanier
+- C. Spiering
+- A. Stahl
+- S. L. Stone
+- Y. Sumino
+- T. Sumiyoshi
+- M. J. Syphers
+- F. Takahashi
+- M. Tanabashi
+- J. Tanaka
+- M. Taševský
+- K. Terashi
+- J. Terning
+- U. Thoma
+- R. S. Thorne
+- L. Tiator
+- M. Titov
+- N. P. Tkachenko
+- D. R. Tovey
+- K. Trabelsi
+- P. Urquijo
+- G. Valencia
+- R. van de Water
+- N. Varelas
+- G. Venanzoni
+- L. Verde
+- M. G. Vincter
+- P. Vogel
+- W. Vogelsang
+- A. Vogt
+- V. Vorobyev
+- S. P. Wakely
+- W. Walkowiak
+- C. W. Walter
+- D. Wands
+- M. O. Wascko
+- D. H. Weinberg
+- E. J. Weinberg
+- M. White
+- L. R. Wiencke
+- S. Willocq
+- C. L. Woody
+- R. L. Workman
+- M. Yokoyama
+- R. Yoshida
+- G. Zanderighi
+- G. P. Zeller
+- O. V. Zenin
+- R. Y. Zhu
+- S. L. Zhu
+- F. Zimmermann
+- J. Anderson
+- T. Basaglia
+- V. S. Lugovsky
+- P. Schaffner
+- W. Zheng
+date: '2020-01-01'
+publishDate: '2024-11-15T01:34:52.938275Z'
+publication_types:
+- article-journal
+publication: '*Progress of Theoretical and Experimental Physics*'
+doi: 10.1093/ptep/ptaa104
+abstract: The Review summarizes much of particle physics and cosmology. Using data
+  from previous editions, plus 3,324 new measurements from 878 papers, we list, evaluate,
+  and average measured properties of gauge bosons and the recently discovered Higgs
+  boson, leptons, quarks, mesons, and baryons. We summarize searches for hypothetical
+  particles such as supersymmetric particles, heavy bosons, axions, dark photons,
+  etc. Particle properties and search limits are listed in Summary Tables. We give
+  numerous tables, figures, formulae, and reviews of topics such as Higgs Boson Physics,
+  Supersymmetry, Grand Unified Theories, Neutrino Mixing, Dark Energy, Dark Matter,
+  Cosmology, Particle Detectors, Colliders, Probability and Statistics. Among the
+  120 reviews are many that are new or heavily revised, including a new review on
+  High Energy Soft QCD and Diffraction and one on the Determination of CKM Angles
+  from B Hadrons. The Review is divided into two volumes. Volume 1 includes the Summary
+  Tables and 98 review articles. Volume 2 consists of the Particle Listings and contains
+  also 22 reviews that address specific aspects of the data presented in the Listings.
+  The complete Review (both volumes) is published online on the website of the Particle
+  Data Group (pdg.lbl.gov) and in a journal. Volume 1 is available in print as the
+  PDG Book. A Particle Physics Booklet with the Summary Tables and essential tables,
+  figures, and equations from selected review articles is available in print and as
+  a web version optimized for use on phones as well as an Android app.
+---

@@ -1,0 +1,59 @@
+---
+title: Cerenkov luminescence imaging of medical isotopes
+authors:
+- Alessandro Ruggiero
+- Jason P. Holland
+- Jason S. Lewis
+- Jan Grimm
+date: '2010-01-01'
+publishDate: '2024-11-15T01:34:51.693028Z'
+publication_types:
+- article-journal
+publication: '*Journal of Nuclear Medicine*'
+doi: 10.2967/jnumed.110.076521
+abstract: 'The development of novel multimodality imaging agents and techniques represents
+  the current frontier of research in the field of medical imaging science. However,
+  the combination of nuclear tomography with optical techniques has yet to be established.
+  Here, we report the use of the inherent optical emissions from the decay of radiopharmaceuticals
+  for Cerenkov luminescence imaging (CLI) of tumors in vivo and correlate the results
+  with those obtained from concordant immuno-PET studies. Methods: In vitro phantom
+  studies were used to validate the visible light emission observed from a range of
+  radionuclides including the positron emitters18F,64Cu,89Zr, and124I; b-emitter131I;
+  and α-particle emitter 225Ac for potential use in CLI. The novel radiolabeled monoclonal
+  antibody89Zr-desferrioxamine B [DFO]-J591 for immuno-PET of prostate-specific membrane
+  antigen (PSMA) expression was used to coregister and correlate the CLI signal observed
+  with the immuno-PET images and biodistribution studies. Results: Phantom studies
+  confirmed that Cerenkov radiation can be observed from a range of positron-, β-,
+  and α-emitting radionuclides using standard optical imaging devices. The change
+  in light emission intensity versus time was concordant with radionuclide decay and
+  was also found to correlate linearly with both the activity concentration and the
+  measured PET signal (percentage injected dose per gram). In vivo studies conducted
+  in male severe combined immune deficient mice bearing PSMA-positive, subcutaneous
+  LNCaP tumors demonstrated that tumor-specific uptake of89Zr-DFO-J591 could be visualized
+  by both immuno-PET and CLI. Optical and immuno-PET signal intensities were found
+  to increase over time from 24 to 96 h, and biodistribution studies were found to
+  correlate well with both imaging modalities. Conclusion: These studies represent
+  the first, to our knowledge, quantitative assessment of CLI for measuring radiotracer
+  uptake in vivo. Many radionuclides common to both nuclear tomographic imaging and
+  radiotherapy have the potential to be used in CLI. The value of CLI lies in its
+  ability to image radionuclides that do not emit either positrons or γ-rays and are,
+  thus, unsuitable for use with current nuclear imaging modalities. Optical imaging
+  of Cerenkov radiation emission shows excellent promise as a potential new imaging
+  modality for the rapid, high-throughput screening of radiopharmaceuticals. COPYRIGHT
+  © 2010 by the Society of Nuclear Medicine, Inc.'
+tags:
+- 124I
+- 131I
+- 18F
+- 225Ac
+- 64Cu
+- 89Zr
+- Cerenkov
+- Imaging technology
+- J591
+- Monoclonal antibodies
+- Optical imaging
+- PET
+- Prostate-specific membrane antigen (PSMA)
+- Radioimmunoconjugate
+---

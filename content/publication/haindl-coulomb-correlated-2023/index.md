@@ -1,0 +1,39 @@
+---
+title: Coulomb-correlated electron number states in a transmission electron microscope
+  beam
+authors:
+- Rudolf Haindl
+- Armin Feist
+- Till Domröse
+- Marcel Möller
+- John H Gaida
+- Sergey V Yalunin
+- Claus Ropers
+date: '2023-01-01'
+publishDate: '2024-11-15T01:34:54.621304Z'
+publication_types:
+- article-journal
+publication: '*Nature Physics*'
+doi: 10.1038/s41567-023-02067-7
+abstract: While correlated electrons are at the heart of many phenomena in condensed
+  matter, as well as atomic and molecular physics, Coulomb interactions in free-electron
+  beams are generally considered detrimental. Here, we demonstrate the generation
+  of Coulomb-correlated pair, triple and quadruple states of free electrons by femtosecond
+  photoemission from a nanoscale field emitter inside a transmission electron microscope.
+  Event-based electron spectroscopy allows the spatial and spectral characterization
+  of the electron ensemble emitted by each laser pulse. We identify distinctive energy
+  and momentum correlations arising from acceleration-enhanced interparticle energy
+  exchange, revealing strong few-body Coulomb interactions at an energy scale of 2 eV.
+  State-sorted beam caustics show a discrete increase in virtual source size and longitudinal
+  source shift for few-electron states, associated with transverse momentum correlations.
+  We observe field-controllable electron antibunching, attributed primarily to transverse
+  Coulomb deflection. The pronounced spatial and spectral characteristics of these
+  electron number states allow filtering schemes that control the statistical distribution
+  of the pulse charge. In this way, the fraction of specific few-electron states can
+  be actively suppressed or enhanced, facilitating the preparation of highly non-Poissonian
+  electron beams for microscopy and lithography, including future heralding schemes
+  and correlated multi-electron probing.
+links:
+- name: URL
+  url: https://doi.org/10.1038/s41567-023-02067-7
+---

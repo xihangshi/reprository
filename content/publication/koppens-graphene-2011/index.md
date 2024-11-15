@@ -1,0 +1,26 @@
+---
+title: 'Graphene Plasmonics: A Platform for Strong Light–Matter Interactions'
+authors:
+- Frank H L Koppens
+- Darrick E Chang
+- F Javier García de Abajo
+date: '2011-01-01'
+publishDate: '2024-11-15T01:34:50.422008Z'
+publication_types:
+- article-journal
+publication: '*Nano Lett.*'
+doi: 10.1021/nl201771h
+abstract: Graphene plasmons provide a suitable alternative to noble-metal plasmons
+  because they exhibit much tighter confinement and relatively long propagation distances,
+  with the advantage of being highly tunable via electrostatic gating. Here, we propose
+  to use graphene plasmons as a platform for strongly enhanced light?matter interactions.
+  Specifically, we predict unprecedented high decay rates of quantum emitters in the
+  proximity of a carbon sheet, observable vacuum Rabi splittings, and extinction cross
+  sections exceeding the geometrical area in graphene nanoribbons and nanodisks. Our
+  theoretical results provide the basis for the emerging and potentially far-reaching
+  field of graphene plasmonics, offering an ideal platform for cavity quantum electrodynamics,
+  and supporting the possibility of single-molecule, single-plasmon devices.
+links:
+- name: URL
+  url: http://dx.doi.org/10.1021/nl201771h
+---
