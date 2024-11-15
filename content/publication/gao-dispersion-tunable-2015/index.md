@@ -1,17 +1,20 @@
 ---
 title: Dispersion-tunable designer-plasmonic resonator with enhanced high-order resonances
+item_number: 2
 authors:
-- F. Gao
-- Z. Gao
-- X. Shi
-- Z. Yang
-- X. Lin
-- B. Zhang
+- Fei Gao
+- Zhen Gao
+- Xihang Shi
+- Zhaoju Yang
+- Xiao Lin
+- Baile Zhang
 date: '2015-01-01'
 publishDate: '2024-11-15T02:22:01.909384Z'
 publication_types:
 - article-journal
-publication: '*Optics Express*'
+publication: 'Optics Express'
+volume: 23 
+pages: 6896-6902
 doi: 10.1364/OE.23.006896
 abstract: © 2015 Optical Society of America. We propose and experimentally demonstrate
   an approach to efficiently tune the dispersion of a designer-plasmonic resonator,

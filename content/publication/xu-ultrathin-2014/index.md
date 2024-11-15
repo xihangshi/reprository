@@ -1,16 +1,19 @@
 ---
 title: Ultrathin Three-Dimensional Thermal Cloak
+item_number: 1
 authors:
 - Hongyi Xu
-- Xihang Shi
+- "**Xihang Shi**"
 - Fei Gao
 - Handong Sun
 - Baile Zhang
 date: '2014-02-01'
-publishDate: '2024-11-15T02:22:01.921880Z'
+publishDate: '2014-02-15T02:22:01.921880Z'
 publication_types:
 - article-journal
-publication: '*Physical Review Letters*'
+publication: 'Physical Review Letters'
+volume: 112 
+pages: 054301
 doi: 10.1103/PhysRevLett.112.054301
 abstract: We report the first experimental realization of a three-dimensional thermal
   cloak shielding an air bubble in a bulk metal without disturbing the external conductive
