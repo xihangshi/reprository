@@ -1,0 +1,42 @@
+---
+title: 'Photon-induced near-field electron microscopy (PINEM): theoretical and experimental'
+authors:
+- Sang Tae Park
+- Milo Lin
+- Ahmed H Zewail
+date: '2010-01-01'
+publishDate: '2024-11-15T01:34:50.847664Z'
+publication_types:
+- article-journal
+publication: '*New Journal of Physics*'
+doi: 10.1088/1367-2630/12/12/123028
+abstract: Electron imaging in space and time is achieved in microscopy with timed
+  (near relativistic) electron packets of picometer wavelength coincident with light
+  pulses of femtosecond duration. The photons (with an energy of a few electronvolts)
+  are used to impulsively heat or excite the specimen so that the evolution of structures
+  from their nonequilibrium state can be followed in real time. As such, and at relatively
+  low fluences, there is no interaction between the electrons and the photons; certainly
+  that is the case in vacuum because energy–momentum conservation is not possible.
+  In the presence of nanostructures and at higher fluences, energy–momentum conservation
+  is possible and the electron packet can either gain or lose light quanta. Recently,
+  it was reported that, when only electrons with gained energy are filtered, near-field
+  imaging enables the visualization of nanoscale particles and interfaces with enhanced
+  contrast (Barwick et al 2009 Nature 462 902). To explore a variety of applications,
+  it is important to express, through analytical formulation, the key parameters involved
+  in this photon-induced near-field electron microscopy (PINEM) and to predict the
+  associated phenomena of, e.g., forty-photon absorption by the electron packet. In
+  this paper, we give an account of the theoretical and experimental results of PINEM.
+  In particular, the time-dependent quantum solution for ultrafast electron packets
+  in the nanostructure scattered electromagnetic (near) field is solved in the high
+  kinetic energy limit to obtain the evolution of the incident electron packet into
+  a superposition of discrete momentum wavelets. The characteristic length and time
+  scales of the halo of electron–photon coupling are discussed in the framework of
+  Rayleigh and Mie scatterings, providing the dependence of the PINEM effect on size,
+  polarization, material and spatiotemporal localization. We also provide a simple
+  classical description that is based on features of plasmonics. A major part of this
+  paper is devoted to the comparisons between the theoretical results and the recently
+  obtained experimental findings about the imaging of materials and biological systems.
+links:
+- name: URL
+  url: http://dx.doi.org/10.1088/1367-2630/12/12/123028
+---

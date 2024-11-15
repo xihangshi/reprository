@@ -1,0 +1,39 @@
+---
+title: Infrared PINEM developed by diffraction in 4D UEM
+authors:
+- Haihua Liu
+- John Spencer Baskin
+- Ahmed H. Zewail
+date: '2016-01-01'
+publishDate: '2024-11-15T01:34:52.025304Z'
+publication_types:
+- article-journal
+publication: '*Proceedings of the National Academy of Sciences of the United States
+  of America*'
+doi: 10.1073/pnas.1600317113
+abstract: The development of four-dimensional ultrafast electron microscopy (4D UEM)
+  has enabled not only observations of the ultrafast dynamics of photon-matter interactions
+  at the atomic scale with ultrafast resolution in image, diffraction, and energy
+  space, but photon-electron interactions in the field of nanoplasmonics and nanophotonics
+  also have been captured by the related technique of photon-induced near-field electron
+  microscopy (PINEM) in image and energy space. Here we report a further extension
+  in the ongoing development of PINEM using a focused, nanometer-scale, electron beam
+  in diffraction space for measurements of infraredlight-induced PINEM. The energy
+  resolution in diffraction mode is unprecedented, reaching 0.63 eV under the 200-keV
+  electron beam illumination, and separated peaks of the PINEM electron-energy spectrum
+  induced by infrared light of wavelength 1,038 nm (photon energy 1.2 eV) have been
+  well resolved for the first time, to our knowledge. In a comparison with excitation
+  by green (519-nm) pulses, similar first-order PINEM peak amplitudes were obtained
+  for optical fluence differing by a factor of more than 60 at the interface of copper
+  metal and vacuum. Under high fluence, the nonlinear regime of IR PINEM was observed,
+  and its spatial dependence was studied. In combination with PINEM temporal gating
+  and low-fluence infrared excitation, the PINEM diffraction method paves the way
+  for studies of structural dynamics in reciprocal space and energy space with high
+  temporal resolution.
+tags:
+- Diffraction
+- Ultrafast dynamics
+- Electron microscopy
+- Materials science
+- Nanostructures
+---

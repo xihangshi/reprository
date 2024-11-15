@@ -1,0 +1,23 @@
+---
+title: Arbitrary bending plasmonic light waves
+authors:
+- Itai Epstein
+- Ady Arie
+date: '2014-01-01'
+publishDate: '2024-11-15T01:34:52.299050Z'
+publication_types:
+- article-journal
+publication: '*Physical Review Letters*'
+doi: 10.1103/PhysRevLett.112.023903
+abstract: We demonstrate the generation of self-accelerating surface plasmon beams
+  along arbitrary caustic curvatures. These plasmonic beams are excited by free-space
+  beams through a two-dimensional binary plasmonic phase mask, which provides the
+  missing momentum between the two beams in the direction of propagation and sets
+  the required phase for the plasmonic beam in the transverse direction. We examine
+  the cases of paraxial and nonparaxial curvatures and show that this highly versatile
+  scheme can be designed to produce arbitrary plasmonic self-accelerating beams. Several
+  different plasmonic beams, which accelerate along polynomial and exponential trajectories,
+  are demonstrated both numerically and experimentally, with a direct measurement
+  of the plasmonic light intensity using a near-field scanning optical microscope.
+  © 2014 American Physical Society.
+---

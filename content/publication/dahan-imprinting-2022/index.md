@@ -1,0 +1,49 @@
+---
+title: Imprinting the quantum statistics of photons on free electrons
+authors:
+- Raphael Dahan
+- Alexey Gorlach
+- Urs Haeusler
+- Aviv Karnieli
+- Ori Eyal
+- Peyman Yousefi
+- Mordechai Segev
+- Ady Arie
+- Gadi Eisenstein
+- Peter Hommelhoff
+- Ido Kaminer
+date: '2022-11-01'
+publishDate: '2024-11-15T01:34:53.110750Z'
+publication_types:
+- article-journal
+publication: '*Science*'
+doi: 10.1126/science.abj7128
+abstract: We know that light is both a wave and a particle, and this duality arises
+  from the classical and quantum nature of electromagnetic excitations. Dahan et al.
+  observed that all experiments to date in which light interacts with free electrons
+  have been described with light considered as a wave (see the Perspective by Carbone).
+  The authors present experimental evidence revealing the quantum nature of the interaction
+  between photons and free electrons. They combine an ultrafast transmission electron
+  microscope with a silicon-photonic nanostructure that confines and strengthens the
+  interaction between the light and the electrons. The ?quantum? statistics of the
+  photons are imprints onto the propagating electrons and are seen directly in their
+  energy spectrum. ?ISO The quantum nature of light?matter interactions is revealed
+  by ultrafast transmission electron microscopy. The interaction between free electrons
+  and light stands at the base of both classical and quantum physics, with applications
+  in free-electron acceleration, radiation sources, and electron microscopy. Yet to
+  this day, all experiments involving free-electron?light interactions are fully explained
+  by describing the light as a classical wave. We observed quantum statistics effects
+  of photons on free-electron?light interactions. We demonstrate interactions that
+  pass continuously from Poissonian to super-Poissonian and up to thermal statistics,
+  revealing a transition from quantum walk to classical random walk on the free-electron
+  energy ladder. The electron walker serves as the probe in nondestructive quantum
+  detection, measuring the second-order photon-correlation g(2)(0) and higher-orders
+  g(n)(0). Unlike conventional quantum-optical detectors, the electron can perform
+  both quantum weak measurements and projective measurements by evolving into an entangled
+  joint state with the photons. These findings inspire hitherto inaccessible concepts
+  in quantum optics, including free-electron?based ultrafast quantum tomography of
+  light.
+links:
+- name: URL
+  url: https://doi.org/10.1126/science.abj7128
+---

@@ -1,0 +1,42 @@
+---
+title: Development and challenges in perovskite scintillators for high-resolution
+  imaging and timing applications
+authors:
+- Arie Wibowo
+- Md Abdul Kuddus Sheikh
+- Lina Jaya Diguna
+- Muhammad Bagas Ananda
+- Maradhana Agung Marsudi
+- Arramel Arramel
+- Shuwen Zeng
+- Liang Jie Wong
+- Muhammad Danang Birowosuto
+date: '2023-03-01'
+publishDate: '2024-11-15T01:34:56.507765Z'
+publication_types:
+- article-journal
+publication: '*Communications Materials*'
+doi: 10.1038/s43246-023-00348-5
+abstract: Abstract  Inorganic scintillators play a major role in ionizing radiation
+  detection due to their high versatility to detect multiple radiation sources such
+  as X-rays, gamma-rays, alpha, beta, and neutron particles, and their fast and high
+  light yield, making them especially convenient for imaging, spectroscopy, and timing
+  applications. Scintillators-based detection systems are found, among various applications,
+  in medical imaging, homeland security, high-energy physics, industrial control,
+  oil drilling explorations, and energy management. This Review discusses advances
+  and prospects of perovskite scintillators, particularly low-dimensional hybrid organic-inorganic
+  perovskite crystals and all-inorganic perovskite nanocrystals. We highlight the
+  promise of two-dimensional lithium-doped (PEA) 2 PbBr 4 crystals and CsPbBr 3 nanocrystals
+  as scintillators with high light yields, exceeding 20 photons/keV, and fast decay
+  times of less than 15 ns. Such a combination may result in fast-spectral X-ray imaging,
+  an output count rate exceeding 30 Mcps/pixel in photon-counting computed tomography,
+  and coincidence timing resolution of less than 100 ps in positron emission tomography.
+  We review recent strategies to further improve light yield, decay time, and coincidence
+  timing resolution through light-matter interactions such as extraction efficiency
+  enhancement and Purcell-enhanced scintillators. These advancements in light yields
+  and decay times of perovskite scintillators will be particularly useful in the medical
+  and security applications.
+links:
+- name: URL
+  url: https://www.nature.com/articles/s43246-023-00348-5
+---
