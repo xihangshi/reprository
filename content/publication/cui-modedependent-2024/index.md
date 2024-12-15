@@ -1,6 +1,7 @@
 ---
 title: Mode‐dependent Far‐field Radiation of Circularly Polarized Light by a Single
   Plasmonic Nanohelix
+item_number: 22
 authors:
 - Yiou Cui
 - Yilin Chen
@@ -10,16 +11,18 @@ authors:
 - Zhongyi Chen
 - Huan Liu
 - Ximin Cui
-- Xihang Shi
+- "**Xihang Shi**"
 - Biye Xie
 - Xiaolu Zhuo
 date: '2024-12-01'
 publishDate: '2024-12-15T13:25:28.553226Z'
 publication_types:
 - article-journal
-publication: '*Advanced Optical Materials*'
+publication: 'Advanced Optical Materials'
+volume: 
+pages: 2402704
 doi: 10.1002/adom.202402704
-abstract: Abstract Chiral plasmonic nanoantennas exhibit unique chiroptical properties
+abstract:  Chiral plasmonic nanoantennas exhibit unique chiroptical properties
   in both the near‐field and far‐field, offering exciting opportunities for applications
   in chiroptical sensing, circularly polarized luminescence, and quantum communication.
   Recent advances in chiral plasmonics have facilitated the creation of nanoparticles
@@ -34,7 +37,6 @@ abstract: Abstract Chiral plasmonic nanoantennas exhibit unique chiroptical prop
   into angle‐resolved spectroscopies of intrinsically chiral plasmonic nanoparticles
   and the applications of chiral plasmonic nanoantennas for controlling circularly
   polarized light emission in nanophotonics.
-links:
-- name: URL
-  url: https://onlinelibrary.wiley.com/doi/10.1002/adom.202402704
+
+
 ---
