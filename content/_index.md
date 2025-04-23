@@ -30,7 +30,7 @@ sections:
             filters:
               brightness: 0.5
             size: contain
-          position: top
+          position: bottom
           color: '#333'
 
       - title: "<span style='font-size: 24px;'>Focused X-ray Beam Driven by Free Electrons</span>"
