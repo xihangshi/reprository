@@ -21,7 +21,7 @@ sections:
           color: '#666'
                 
      
-      - title: "Transverse Recoil Imprinted on Free-electron Radiation</span>"
+      - title: "<span style='font-size: 24px;'>Transverse Recoil Imprinted on Free-electron Radiation</span>"
         content: '[Nature Communication (2024)](https://rdcu.be/dTrDC)'
         align: top
         background:
