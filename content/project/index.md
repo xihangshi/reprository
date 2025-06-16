@@ -6,7 +6,19 @@ type: landing
 title: Free-electron optics
 
 sections:
-  - block: markdown
+  - block: cta
+    id: research_interests
+    content:
+      title: "Research Interests"
+      text: |
+        My research focuses on free-electron-driven nanophotonics, including free-electron radiation and the interaction of free electrons with the near-field of light. I aim to develop mechanisms to enhance the coupling strength between free electrons and light, and deepen our understanding of quantum phenomena in this field. Beyond fundamental investigations, I strive to propose new applications that leverage advances in quantum materials and quantum technologies.
+      image: 
+        filename: "Research_dir.jpg"
+        alt: "Research roadmap"
+      align: right
+
+
+  - block: cta
     id: research_interests
     content:
       title: "<h2 style='font-size: 26px;'>Research Interests</h2>"
