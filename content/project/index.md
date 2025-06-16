@@ -37,7 +37,7 @@ sections:
   - block: markdown
     id: free_electron_Xray_optics
     content:
-      title: "<h2 style='font-size: 26px;'>Free-electron X-ray optics</h2>"
+      title: "<h2 style='font-size: 26px;'>Free-electron X-ray Optics</h2>"
       text: |
         <div style="display: flex; align-items: center; gap: 30px; flex-direction: row;">
           <div style="flex: 1;">
