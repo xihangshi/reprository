@@ -6,7 +6,7 @@ type: landing
 title: Free-electron optics
 
 sections:
-  - block: feature
+  - block: markdown
     id: research_interests
     content:
       title: "Research Interests"
