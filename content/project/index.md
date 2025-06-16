@@ -43,7 +43,7 @@ sections:
       
     # design:
     #   # Choose
-     an optional background color, gradient, image, or video
+    #  an optional background color, gradient, image, or video
     #   background:
     #     gradient_end: '#1976d2'
     #     gradient_start: '#004ba0'
