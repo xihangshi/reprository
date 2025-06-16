@@ -16,8 +16,6 @@ sections:
         filename: "Research_dir.jpg"
         alt: "Research roadmap"
       align: right
-
-
   - block: cta
     id: research_interests
     content:
