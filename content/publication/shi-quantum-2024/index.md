@@ -1,6 +1,6 @@
 ---
-title: "Quantum Nanophotonics with Energetic Particles: X-rays and Free Electrons"
-item_number: 📝*
+title: "Quantum Nanophotonics with Energetic Particles: X-rays and Free Electrons (review)"
+item_number: 23*
 authors:
 - "**Xihang Shi<sup>&dagger;</sup>**"
 - "Wen Wei Lee<sup>&dagger;</sup>"
@@ -16,7 +16,7 @@ date: '2024-11-15'
 publishDate: '2024-11-15T01:34:56.531605Z'
 publication_types:
 - article-journal
-publication: 'arXiv'
+publication: 'accepted by Progress in Quantum Nanophotonics'
 pages: 	2411.09019
 doi: 10.48550/arXiv.2411.09019
 
