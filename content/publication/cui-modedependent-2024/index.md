@@ -14,12 +14,12 @@ authors:
 - "**Xihang Shi**"
 - Biye Xie
 - Xiaolu Zhuo
-date: '2024-12-01'
+date: '2025-03-13'
 publishDate: '2024-12-15T13:25:28.553226Z'
 publication_types:
 - article-journal
 publication: 'Advanced Optical Materials'
-volume: 
+volume: 13
 pages: 2402704
 doi: 10.1002/adom.202402704
 abstract:  Chiral plasmonic nanoantennas exhibit unique chiroptical properties

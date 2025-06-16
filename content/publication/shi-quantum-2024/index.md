@@ -17,7 +17,7 @@ publishDate: '2024-11-15T01:34:56.531605Z'
 publication_types:
 - article-journal
 publication: 'accepted by Progress in Quantum Nanophotonics'
-pages: 	2411.09019
+pages: 	
 doi: 10.48550/arXiv.2411.09019
 
 abstract: Rapid progress in precision nanofabrication and atomic design over the past 50 years has ushered in a 
