@@ -13,7 +13,7 @@ sections:
       text: |
         <div style="display: flex; align-items: center; gap: 30px;">
           <div style="flex: 1;">
-            My research focuses on free-electron-driven nanophotonics, including free-electron radiation and the interaction of free electrons with the near-field of light. I aim to develop mechanisms to enhance the coupling strength between free electrons and light, and deepen our understanding of quantum phenomena in this field. Beyond fundamental investigations, I strive to propose new applications that leverage advances in quantum materials and quantum technologies.
+            Free-Electron Optics investigates the interaction between free electrons and light, including both external light fields and vacuum fluctuations. In these interactions, free electrons can serve as a nonlinear medium, enabling frequency conversion of incident light, and can also behave as quantum systems with discrete energy exchange. These properties make free electrons a promising platform for generating high-frequency radiation, controlling emission at the quantum level, and producing quantum light such as single photons or entangled states. This research bridges free-electron physics with quantum optics topics like quantum coherence, quantum entanglement, and quantum information science, fostering new avenues for quantum technologies and advanced light sources.
           </div>
           <div style="flex: 1;">
             <img src="Research_dir.jpg" style="width: 100%; height: 70%;"/>
