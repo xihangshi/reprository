@@ -9,6 +9,19 @@ sections:
   - block: markdown
     id: research_interests
     content:
+      title: "<h2 style='font-size: 26px;'>Research Interests</h2>"
+      text: |
+        <div style="display: flex; align-items: center; gap: 30px;">
+          <div style="flex: 1;">
+            My research focuses on free-electron-driven nanophotonics, including free-electron radiation and the interaction of free electrons with the near-field of light. I aim to develop mechanisms to enhance the coupling strength between free electrons and light, and deepen our understanding of quantum phenomena in this field. Beyond fundamental investigations, I strive to propose new applications that leverage advances in quantum materials and quantum technologies.
+          </div>
+          <div style="flex: 1;">
+            <img src="Research_dir.jpg" style="width: 100%; height: auto;"/>
+          </div>
+        </div>
+  - block: markdown
+    id: research_interests
+    content:
       title: "Research Interests"
       text: |
         My research focuses on free-electron-driven nanophotonics, including free-electron radiation and the interaction of free electrons with the near-field of light. I aim to develop mechanisms to enhance the coupling strength between free electrons and light, and deepen our understanding of quantum phenomena in this field. Beyond fundamental investigations, I strive to propose new applications that leverage advances in quantum materials and quantum technologies.
