@@ -89,8 +89,8 @@ sections:
       subtitle: "[Free-electron optics](/project/)"
       text: |
          1. [Quantum Free-electron Radiation](/project/#quantum_free_electron_radiation) <br>
-         2. [Free electron X-ray Optics](/project/#free_electron_Xray_optics) <br>
-         3. [Electron-Heralded Quantum X-ray Source](/project/#quantum_light_source)
+         2. [Free-electron X-ray Optics](/project/#free_electron_Xray_optics) <br>
+         3. [Electron-heralded Quantum X-ray Source](/project/#quantum_light_source)
     design:
       columns: '1'
 
