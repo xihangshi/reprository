@@ -13,8 +13,12 @@ sections:
       text: |
         <div style="display: flex; align-items: center; gap: 30px;">
           <div style="flex: 1;">
+          <p>
           Free-Electron Optics explores how free electrons interact with classical electromagnetic fields and quantum vacuum fluctuations, connecting advanced nanophotonics, electron physics, and quantum optics. In these interactions, free electrons act as versatile nonlinear quantum media, enabling frequency conversion and the tailoring of tunable radiation spectra. Furthermore, free-electron–light interactions can serve as quantum gates: free electrons can become entangled with the photons they emit, allowing precise manipulation of light at the quantum wave packet level and the creation of non-classical light states.
+          </p>
+          <p>
           Our research deepens the fundamental understanding of quantum electron–light–matter interactions and aims to achieve precise control of radiation at both the nanoscale and the quantum level. By harnessing the quantum properties of free electrons, we strive to develop compact, ultrashort-wavelength light sources and generate quantum light states beyond what conventional approaches can achieve.
+          </p>
           </div>
           <div style="flex: 1;">
             <img src="Research_dir.jpg" style="width: 100%; height: 70%;"/>
