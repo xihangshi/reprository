@@ -38,6 +38,18 @@ sections:
 
   - block: markdown
     content:
+      title: Education experience
+      subtitle:
+      text: |
+        | | | |
+        |--------------|---------------|
+        |2012 – 2017| Ph.D. in Physics | Nanyang Technological Universiyt, Singapore|
+        |2010 – 2012| Graduate studies in Physics | Chinese Academic of Science, China|
+        |2006 – 2010| B.Sc. in Physics	| Sun-yat Sen Univerity, China|
+ 
+
+  - block: markdown
+    content:
       title: Academic Service
       subtitle:
       text: |
