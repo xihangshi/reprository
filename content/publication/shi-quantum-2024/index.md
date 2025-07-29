@@ -16,7 +16,7 @@ date: '2025-06-13'
 publishDate: '2024-11-15T01:34:56.531605Z'
 publication_types:
 - article-journal
-publication: 'Progress in Quantum Nanophotonics'
+publication: 'Progress in Quantum Electronics'
 pages: 	
 doi: https://doi.org/10.1016/j.pquantelec.2025.100577
 
