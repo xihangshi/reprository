@@ -43,7 +43,7 @@ sections:
       text: |
         | | | |
         |--------------|---------------|---------------|
-        |2012 – 2017| Ph.D. in Physics | Nanyang Technological Universiyt, Singapore|
+        |2012 – 2017| Ph.D. in Physics | Nanyang Technological Universiyt, Singapore <br> supervised by Prof. [Baile Zhang](https://personal.ntu.edu.sg/blzhang/)|
         |2010 – 2012| Graduate studies in Physics | Chinese Academic of Science, China|
         |2006 – 2010| B.Sc. in Physics	| Sun-yat Sen Univerity, China|
  
