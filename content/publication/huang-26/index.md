@@ -18,6 +18,8 @@ publication_types:
 - article-journal
 publication: 'Photonics Research'
 doi: 10.1364/PRJ.570799
+volume: 14
+pages: 643-648
 abstract: Smith&#x2013;Purcell radiation has emerged as a crucial platform for investigating
   light-matter interactions and developing compact, tunable light sources that span
   from microwaves to X-rays. In classical theory, it is believed that Cherenkov radiation
@@ -39,6 +41,5 @@ abstract: Smith&#x2013;Purcell radiation has emerged as a crucial platform for i
 tags:
 - Free-Electron Quantum Optics
 links:
-- name: URL
-  url: https://opg.optica.org/prj/abstract.cfm?URI=prj-14-3-643
+
 ---
