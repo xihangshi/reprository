@@ -3,8 +3,8 @@ title: Energy threshold in Smith-Purcell radiation
 item_number: *24
 
 authors:
-- Sunchao Huang
-- "**Xihang Shi**"
+- "Sunchao Huang<sup>&dagger;</sup>"
+- "**Xihang Shi**<sup>&dagger;</sup>"
 - Xiaoqiuyan Zhang
 - Suguo Chen
 - Yue Wang
@@ -16,7 +16,7 @@ date: '2026-03-01'
 publishDate: '2026-02-11T11:18:06.765875Z'
 publication_types:
 - article-journal
-publication: '*Photon. Res.*'
+publication: 'Photonics Research'
 doi: 10.1364/PRJ.570799
 abstract: Smith&#x2013;Purcell radiation has emerged as a crucial platform for investigating
   light-matter interactions and developing compact, tunable light sources that span
