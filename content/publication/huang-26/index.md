@@ -1,8 +1,10 @@
 ---
-title: Energy threshold in Smith&#x2013;Purcell radiation
+title: Energy threshold in Smith-Purcell radiation
+item_number: *24
+
 authors:
 - Sunchao Huang
-- Xihang Shi
+- "**Xihang Shi**"
 - Xiaoqiuyan Zhang
 - Suguo Chen
 - Yue Wang
@@ -35,8 +37,7 @@ abstract: Smith&#x2013;Purcell radiation has emerged as a crucial platform for i
   radiation and provide valuable insights for developing low-energy-driven and heralded
   quantum light sources.
 tags:
-- Light matter interactions; Light sources; Optical materials; Photon counting; Quantum
-  light sources; Scanning electron microscopy
+- Free-Electron Quantum Optics
 links:
 - name: URL
   url: https://opg.optica.org/prj/abstract.cfm?URI=prj-14-3-643
