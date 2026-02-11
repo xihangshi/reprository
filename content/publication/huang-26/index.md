@@ -1,6 +1,6 @@
 ---
 title: Energy threshold in Smith-Purcell radiation
-item_number: 24*
+item_number: "24*"
 
 authors:
 - "Sunchao Huang<sup>&dagger;</sup>"
