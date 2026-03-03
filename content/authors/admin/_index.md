@@ -75,4 +75,4 @@ user_groups:
   - Principal Investigators 
 ---
 
-Xihang Shi is a PostDoc under Prof. Ido Kaminer's group in Technion, Israel. His research is dedicated to advancing the field of free-electron radiation, using free electrons to generate radiation in spectral regions that are challenging to access with traditional optical methods, such as highly confined plasmons and X-rays. His research covers the entire spectrum from the fundamental all the way to the very applied. In particular, he strive to deepen our understanding of quantum science in this field and make use of it.
+Xihang Shi was a PostDoc under Prof. Ido Kaminer at Technion, Israel, and obtained his PhD degree under Prof. Baile Zhang at NTU, Singapore. His research is dedicated to advancing the field of free-electron radiation, using free electrons to generate radiation in spectral regions that are challenging to access with traditional optical methods, such as highly confined plasmons and X-rays. His research covers the entire spectrum from the fundamental all the way to the very applied. In particular, he strive to deepen our understanding of quantum science in this field and make use of it.
