@@ -10,11 +10,11 @@ last_name: Shi
 superuser: true
 
 # Role/position
-role: PostDoc in Solid State Institute and the ECE Department, Technion, Israel
+role: Associate Professor, School of Physics, Sun Yat-sen University, China
 
 # Organizations/Affiliations
 organizations:
-  - name: Technion – Israel Institute of Technology
+  - name: Sun Yat-sen Universit
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
